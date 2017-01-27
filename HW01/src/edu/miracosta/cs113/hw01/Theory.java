@@ -1,5 +1,3 @@
-package edu.miracosta.cs113.hw01 ;
-
 /**
  * Theory.java : stores values for weapon, location, and person
  * 
@@ -9,6 +7,7 @@ package edu.miracosta.cs113.hw01 ;
  *          TODO Upgrade Theory to error check/handle weapon, location, and
  *          person values. Update documentation accordingly
  */
+package edu.miracosta.cs113.hw01 ;
 
 public class Theory
 {

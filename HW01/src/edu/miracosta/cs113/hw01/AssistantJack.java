@@ -1,5 +1,3 @@
-package edu.miracosta.cs113.hw01 ;
-
 /**
  * AssistantJack.java : will be asked various theories by Detective Jill,
  * AssistantJack will then refute the answer or will accept the answer. If
@@ -11,6 +9,7 @@ package edu.miracosta.cs113.hw01 ;
  * @version 1.0
  * 
  */
+package edu.miracosta.cs113.hw01 ;
 
 import java.util.ArrayList ;
 import java.util.Random ;

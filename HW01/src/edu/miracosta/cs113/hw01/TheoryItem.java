@@ -1,5 +1,3 @@
-package edu.miracosta.cs113.hw01 ;
-
 /**
  * TheoryItem.java : Convenient class helps to keep track of different kinds of
  * murders, locations, and weapons. Constants can be used as limits (1 -
@@ -10,6 +8,7 @@ package edu.miracosta.cs113.hw01 ;
  * @version 1.0
  *
  */
+package edu.miracosta.cs113.hw01 ;
 
 public final class TheoryItem
 {
