@@ -1,3 +1,12 @@
+/**
+ * DetectiveJill.java variable that represent assistant jack and 
+ * variables that represents list of weapons, locations, 
+ * and person(murders) involved in the crime.
+ * Also includes methods to figure out the correct theory of detective Jill.
+ * 
+ * @author Angel Tapia
+ *
+ */
 package edu.miracosta.cs113.hw01;
 
 import java.util.Random ;
