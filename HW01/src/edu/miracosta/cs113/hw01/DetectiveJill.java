@@ -1,11 +1,13 @@
 /**
- * DetectiveJill.java variable that represent assistant jack and 
- * variables that represents list of weapons, locations, 
- * and person(murders) involved in the crime.
- * Also includes methods to figure out the correct theory of detective Jill.
+ * DetectiveJill.java is a class that represent Detective Jill.
+ * Therefore, this class contains instance variables that represent
+ * assistant jack and lists of weapons, locations, and person(murders)
+ * involved in the crime.
+ * Also includes method that helps to solve the problem by process
+ * of elimination.
  * 
- * @author Angel Tapia
- *
+ * @author Angel Tapia <angelTapia07084759@gmail.com>
+ * @version 1.0
  */
 package edu.miracosta.cs113.hw01;
 
@@ -157,14 +159,14 @@ public class DetectiveJill
 	 * discardTheoryItem can be used to checks off items in the list of,
 	 * weapons, locations, and persons(murders).
 	 * 
-	 * @param item represents (1) weapons, (2) locations, and (3) persons(murders).
+	 * @param itemType represents (1) weapons, (2) locations, and (3) persons(murders).
 	 * @param weapon is the index of the actual weapon in the weapons list.
 	 * @param location is the index of the actual location in the locations list.
 	 * @param person is the index of the actual person in the persons list.
 	 */
-	public void discardTheoryItem(int item, int weapon, int location, int person)
+	public void discardTheoryItem(int itemType, int weapon, int location, int person)
 	{
-		switch (item)
+		switch (itemType)
 		{
 			case 1:
 			{

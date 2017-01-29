@@ -7,8 +7,8 @@
  */
 package edu.miracosta.cs113.hw01 ;
 
-//import java.util.Random ;
-//import java.util.Scanner ;
+import java.util.Random ;
+import java.util.Scanner ;
 
 public class RandomClue
 {
@@ -19,7 +19,7 @@ public class RandomClue
 	 * @param args
 	 *            command line arguments (unnused)
 	 */
-/*	public static void main(String[] args)
+	public static void mainA(String[] args)
 	{
 		Scanner keyboard = new Scanner(System.in) ;// Testing: Keyboard input moved
 				
@@ -66,5 +66,5 @@ public class RandomClue
 		keyboard.close() ;// Testing: closing keyboard
 		System.out.println("End of the program!") ;// Testing: End of test
 	}
-*/
+
 }
