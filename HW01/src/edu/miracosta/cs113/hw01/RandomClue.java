@@ -19,7 +19,7 @@ public class RandomClue
 	 * @param args
 	 *            command line arguments (unnused)
 	 */
-	public static void main(String[] args)
+	public static void mainA(String[] args)
 	{
 		Scanner keyboard = new Scanner(System.in) ;// Testing: Keyboard input moved
 				

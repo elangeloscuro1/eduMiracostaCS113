@@ -62,7 +62,7 @@ public class HW01_Driver
 	 * 
 	 * @param args not used.
 	 */
-	public static void mainB(String[] args)
+	public static void main(String[] args)
 	{
 		Scanner userIn = new Scanner(System.in) ;
 		
