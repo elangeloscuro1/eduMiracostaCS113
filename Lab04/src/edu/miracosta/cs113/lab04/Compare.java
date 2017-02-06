@@ -5,15 +5,21 @@ public class Compare
 	// main
 	public static void main(String[] args)
 	{
-		Compare y1 = new Compare(5) ;
-		Compare y2 = new Compare(5) ;
+
 		
 		System.out.println("Y1 = (100 * variable) + 10 ") ;
 		System.out.println("Y1 = (5 * variable * variable) + 2 ") ;
 		System.out.println() ;
-		
-		System.out.println("Y1 with n = 5: " + y1.getY1()) ;
-		System.out.println("Y2 with n = 5: " + y2.getY2()) ;
+		for (int i = 0; i <= 100; i = i + 10)
+		{
+			Compare y1 = new Compare(i) ;
+			Compare y2 = new Compare(i) ;
+			
+			System.out.printf("Y1 with n = %-3s:%10s%n", i , y1.getY1()) ;
+			System.out.printf("Y2 with n = %-3s:%10s%n%n", i , y1.getY2()) ;
+		}
+
+
 						
 	}
 	
