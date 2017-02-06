@@ -7,7 +7,7 @@ public class Lab02Driver
 	{
 		PowerOfTwo power = new PowerOfTwo() ;
 		
-		for (int i = 1 ; i < 40 ; i++)
+		for (int i = 0 ; i < 40 ; i++)
 		{
 			String isPower = power.isPower(i) ? "is" : "is not" ;
 			
