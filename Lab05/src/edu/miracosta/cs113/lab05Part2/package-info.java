@@ -7,4 +7,4 @@
  * @author Angel Tapia <angelTapia07084759@gmail.com>
  * @version 1.0
  */
-package edu.miracosta.cs113.lab06Part2 ;
+package edu.miracosta.cs113.lab05Part2 ;
