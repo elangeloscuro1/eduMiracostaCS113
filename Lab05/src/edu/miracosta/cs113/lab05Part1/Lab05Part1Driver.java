@@ -30,12 +30,13 @@
  * @version 1.0
  */
 
-package edu.miracosta.cs113.lab05 ;
+package edu.miracosta.cs113.lab05Part1 ;
 
 import java.util.ArrayList ;
 
-public class Lab05Driver
+public class Lab05Part1Driver
 {
+	//*************		Lab05 part 1.1			******************
 	/**
 	 * Replaces each occurrence of oldItem in aList with newItem 
 	 * 
@@ -54,6 +55,7 @@ public class Lab05Driver
 		}
 	}
 
+	//*************		Lab05 part 1.2			******************
 	/**
 	 * Deletes the first occurrence of target in aList
 	 *  
@@ -72,7 +74,7 @@ public class Lab05Driver
 	/**
 	 * main tests the static method replace an d delete
 	 * 
-	 * @param args Line command
+	 * @param args command line
 	 */
 	public static void main(String[] args)
 	{
@@ -107,7 +109,7 @@ public class Lab05Driver
 		
 		//	Deleting first instance of target
 		delete(list, "XXX") ;
-		System.out.println("\nDELETING:\"XXX\"  ") ;
+		System.out.println("\nDeeting first instance of:\"XXX\"  ") ;
 		
 		//	Displaying new list
 		for (String string : list)
