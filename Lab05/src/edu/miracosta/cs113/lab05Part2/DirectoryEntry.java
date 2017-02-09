@@ -95,9 +95,9 @@ public class DirectoryEntry
 		return String.format("Name: %-20s  Number: %-12s", name, number) ;
 	}
 	/**
-	 * Compares all of the fields of two DirectoryEntry objects.
+	 * Compares name of DirectoryEntry objects.
 	 * 
-	 *  @return true if all of the field are equivalent.
+	 *  @return true if name field are equals.
 	 */
 	@Override
 	public boolean equals(Object object)
@@ -106,7 +106,8 @@ public class DirectoryEntry
 		{
 			return false ;
 		}
+		
 		DirectoryEntry other = (DirectoryEntry) object ;
-		return name.equalsIgnoreCase(other.name) && number.equals(other.number) ;
+		return name.equalsIgnoreCase(other.name) ;
 	}	
 }

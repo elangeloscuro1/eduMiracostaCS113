@@ -48,31 +48,26 @@ public class Lab05Part2Driver
 	{
 		Directory directory = new Directory() ;
 		
-		// Adding and displaying to directory
 		System.out.println("Adding and displaying directory:") ;
 		directory.addOrChangeEntry("Angel Tapia", "760-111-2222") ;
 		directory.addOrChangeEntry("Pancho Villa", "187-820-1923") ;
 		directory.addOrChangeEntry("Emiliano Zapata", "187-910-1919") ;
 		directory.addOrChangeEntry("Donaldo Colosio", "195-023-1994") ;			
-		directory.displayEntries() ;// Displays directory
+		directory.displayEntries() ;
 		
-		// Replacing an existing directory
-		System.out.print("\nReplacing an existing directory: Angel Tapia  ") ;
-		System.out.println(directory.addOrChangeEntry("Angel Tapia", "760-123-1234")) ;
+		System.out.println("\nReplacing an existing directory: Angel Tapia") ;
+		String replacedEntry = directory.addOrChangeEntry("Angel Tapia", "760-123-1234") ;
+		System.out.println("Old Number:   " + replacedEntry) ;
 		
-		// Displaying new Changes
 		System.out.println("Displaying new Changes:") ;
-		directory.displayEntries() ;// Displays directory
+		directory.displayEntries() ;
 		
-		// Deleting an existing directory
 		System.out.println("\nDeleting an existing directory: Donaldo Colosio  ") ;
 		System.out.println(directory.removeEntry("Donaldo Colosio")) ;
 		
-		// Displaying new Changes
-		System.out.println("\nDisplaying new Changes:") ;
-		directory.displayEntries() ;// Displays directory
+		System.out.println("Displaying new Changes:") ;
+		directory.displayEntries() ;
 		
-		// Displaying end of the test
 		System.out.println("\nEnd of the program!") ;
-	}// End of main
+	}
 }

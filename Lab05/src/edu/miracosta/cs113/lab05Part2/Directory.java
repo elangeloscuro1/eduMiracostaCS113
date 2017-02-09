@@ -35,19 +35,14 @@ public class Directory
 	 */
 	public String addOrChangeEntry(String aName, String newNumber)
 	{
-		// Entry to be added or changed.
-		DirectoryEntry newEntry = new DirectoryEntry(aName, newNumber) ;
-		int size = theDirectory.size() ;
+		DirectoryEntry newEntry = new DirectoryEntry(aName, newNumber) ;		
+		int index = theDirectory.indexOf(newEntry) ;
 		
-		// Searches for any occurrence
-		for (int i = 0 ; i < size ; i++)
+		if (index > -1)
 		{
-			if (theDirectory.get(i).getName().equals(aName))
-			{
-				return theDirectory.set(i, newEntry).getNumber() ;
-			}
+			return theDirectory.set(index, newEntry).getNumber() ;			
 		}
-		// No Occurrence found; adding newEntry to theDirectory.
+		
 		theDirectory.add(newEntry) ;
 		return null ;
 	}
@@ -60,29 +55,18 @@ public class Directory
 	 * @return the person that is removed or null if no person is removed.
 	 */
 	public DirectoryEntry removeEntry(String aName)
-	{
-		int size = theDirectory.size() ;
+	{		
+		int index = theDirectory.indexOf(new DirectoryEntry(aName, "")) ;
 		
-		for (int i = 0; i < size; i++)
-		{			
-			if (theDirectory.get(i).getName().equals(aName))
-			{
-				return theDirectory.remove(i) ;
-			}
-		}
-		
-		/* THE PIECE OF CODE DOES NOT WORK
-		int index = theDirectory.indexOf(aName) ;		
-		if (index > -1)// Found a person to remove.
+		if (index > -1)
 		{
 			return theDirectory.remove(index) ;
-		}
-		*/
-		return null ;// No person was found.
+		}		
+		return null ;
 	}
 	
 	/**
-	 * Displays all of the entries in theDirectory.
+	 * Displays all of the elements in theDirectory.
 	 */	
 	public void displayEntries()
 	{
@@ -115,6 +99,7 @@ public class Directory
 		{
 			return false ;
 		}
+		
 		Directory other = (Directory) object ;
 		return this == other ;
 	}	
