@@ -43,7 +43,7 @@
 
 package polynomial ;
 
-public class HW03Driver
+public class HW03Part1Driver
 {
 	public static void main(String[] args)
 	{	
