@@ -1,7 +1,7 @@
 package polynomial;
 
 
-public class TermLinkedList
+public class TermSingleLinkedList
 {
 	/***********************************
 	 * Inner Generic Class: Node.
@@ -10,7 +10,7 @@ public class TermLinkedList
 	{
 		private Node link ;
 		private Term data ;
-
+		
 		public Node(Term data, Node link)
 		{
 			this.data = data ;
@@ -26,7 +26,7 @@ public class TermLinkedList
 	/**
 	 * Default constructor
 	 */
-	public TermLinkedList()
+	public TermSingleLinkedList()
 	{
 		size = 0 ;
 		head = null ;
@@ -56,18 +56,18 @@ public class TermLinkedList
 	}
 	
 	/**
-	 * Adds an elements to the end of the list.
+	 * Adds a list of elements to the end of the list.
 	 * 
 	 * @param term represents the element to be added.
 	 */
-	public void addList(TermLinkedList list)
+	public void addList(TermSingleLinkedList list)
 	{
 		Node newNode = list.head ;
-			while (newNode != null)
-			{
-				addSorted(newNode.data) ;
-				newNode = newNode.link ;
-			}
+		while (newNode != null)
+		{
+			addSorted(newNode.data) ;
+			newNode = newNode.link ;
+		}
 	}
 	
 	/** 
@@ -79,7 +79,8 @@ public class TermLinkedList
 	}
 	/**
 	 * 
-	 * @return
+	 * @return an element from a specific index
+	 * 		   or null if index is greater than the list size.
 	 */
 	public Term get(int index)
 	{
@@ -90,15 +91,6 @@ public class TermLinkedList
 		}
 		return temp == null ? null : temp.data ;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	/**
 	 * Removes the first element in the list.

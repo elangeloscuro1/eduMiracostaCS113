@@ -1,70 +1,94 @@
-package polynomial;
-
-import javax.swing.plaf.synth.SynthStyle ;
+/**
+ * Polynomial uses uses method of the class TermSingleLinkedList
+ * to add remove and simplify a list of terms.
+ */
+package polynomial ;
 
 public class Polynomial
 {
-	private TermLinkedList termList ;
+	/** creates a linkedList of Terms objects */
+	private TermSingleLinkedList termList ;
 	
+	/**
+	 * Default constructor initializes termList.
+	 */
 	public Polynomial()
 	{
-		termList = new TermLinkedList() ;
+		termList = new TermSingleLinkedList() ;
 	}
 	
+	/**
+	 * Adds a term to the list, sorted from greatest to lowest exponent values.
+	 * 
+	 * @param term represents a term to be added to the termList.
+	 */
 	public void addTerm(Term term)
 	{
 		termList.addSorted(term) ;
 	}
 	
+	/**
+	 * Adds another list of terms to the list.
+	 * 
+	 * @param list represent the list of term to be added.
+	 */
 	public void addList(Polynomial list)
 	{	
 		termList.addList(list.termList);		
 	}
 	
+	/**
+	 * Combine terms that are like term.
+	 */
 	public void simplify()
 	{
-		TermLinkedList temp = new TermLinkedList() ;
+		TermSingleLinkedList temp = new TermSingleLinkedList() ;
 		int constant = 0 ;
 		
 		while (termList.getSize() > 0)
 		{
-			Term current = termList.removeFirst() ;			
+			Term current = termList.get(0) ;
+			Term next = termList.get(1) ;
+			int exponent = current.getExponent() ;		
+			
 			if (current.isConstant())
 			{
-				constant += current.getCoefficient() ;				
+				constant += current.getCoefficient() ;
+				termList.removeFirst() ;
 			}
-			else
+			else if (next != null && next.isConstant())
 			{
-				temp.addSorted(current) ;
-			}			
-		}
-		termList = temp ;
-		temp = new TermLinkedList() ;
-		while (termList.get(0) != null)
-		{
-			Term current = termList.removeFirst() ;
-			Term next = termList.get(0) ;
-			if (next != null && current.getExponent() == next.getExponent())
+				constant += next.getCoefficient() ;				
+				Term newTerm = termList.get(0) ;
+				termList.removeFirst() ;
+				termList.removeFirst() ;
+				termList.addSorted(newTerm) ;				
+			}
+			else if (next != null && next.getExponent() == exponent)
 			{
 				int coefficient = current.getCoefficient() + next.getCoefficient() ;
-				temp.addSorted(new Term(coefficient , current.getExponent())) ;	
-				termList.removeFirst() ;			
+				termList.get(1).setCoefficient(coefficient) ;
+				termList.get(1).setExponent(exponent) ;
+				termList.removeFirst() ;
 			}
 			else
 			{
 				temp.addSorted(current) ;
+				termList.removeFirst() ;
 			}
-		}		
+		}
 		if (constant != 0)
 		{
 			temp.addSorted(new Term(constant, "", 1)) ;
 		}
 		termList = temp ;
 	}
-		
 	
+	/**
+	 * displays all of the term in the list.
+	 */
 	public void display()
 	{
 		termList.displayList() ;
-	}	
+	}
 }
