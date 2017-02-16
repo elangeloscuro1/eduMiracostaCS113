@@ -2,6 +2,10 @@
  * Polynomial uses uses method of the class TermSingleLinkedList
  * to add remove and simplify a list of terms.
  */
+/**
+ * @author Angel Tapia
+ */
+
 package polynomial ;
 
 public class Polynomial
@@ -85,10 +89,10 @@ public class Polynomial
 	}
 	
 	/**
-	 * displays all of the term in the list.
+	 * displays all of the term in the list by calling the toString method.
 	 */
 	public void display()
 	{
-		termList.displayList() ;
+		System.out.println(termList) ;
 	}
 }

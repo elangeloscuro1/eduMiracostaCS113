@@ -1,5 +1,15 @@
-package polynomial;
+/**
+ * TermSingleLinkedList creates a list of terms
+ * by adding single terms or other list of terms.
+ * this class also has the ability to sort
+ * terms by the highest exponent and to combine like
+ * terms by calling the method simplify.
+ */
+/**
+ * @author Angel Tapia
+ */
 
+package polynomial ;
 
 public class TermSingleLinkedList
 {
@@ -28,8 +38,8 @@ public class TermSingleLinkedList
 	 */
 	public TermSingleLinkedList()
 	{
-		size = 0 ;
-		head = null ;
+		this.size = 0 ;
+		this.head = null ;
 	}
 	
 	/**
@@ -39,13 +49,13 @@ public class TermSingleLinkedList
 	 */
 	public void addSorted(Term term)
 	{		
-		if (head == null || term.compareTo(head.data) > 0)
+		if (this.head == null || term.compareTo(this.head.data) > 0)
 		{
-			head = new Node(term, head) ;
+			this.head = new Node(term, this.head) ;
 		}
 		else
 		{
-			Node newNode = head ;
+			Node newNode = this.head ;
 			while (newNode.link != null && term.compareTo(newNode.link.data) <= 0)
 			{
 				newNode = newNode.link ;
@@ -75,7 +85,7 @@ public class TermSingleLinkedList
 	 */
 	public int getSize()
 	{
-		return size ;
+		return this.size ;
 	}
 	/**
 	 * 
@@ -84,7 +94,7 @@ public class TermSingleLinkedList
 	 */
 	public Term get(int index)
 	{
-		Node temp = head ;
+		Node temp = this.head ;
 		for (int i = 0 ; temp != null && i < index ; i++)
 		{
 			temp = temp.link ;
@@ -99,28 +109,14 @@ public class TermSingleLinkedList
 	 */
 	public Term removeFirst()
 	{
-		if (head == null)
+		if (this.head == null)
 		{
 			return null ;
 		}
-		Term temp = head.data ;
-		head = head.link ;
+		Term temp = this.head.data ;
+		this.head = this.head.link ;
 		size-- ;
 		return temp ;
-	}
-	
-	/**
-	 * display every term in the list as an algebraic expression.
-	 */
-	public void displayList()
-	{
-		Node newNode = head ;
-		while (newNode != null)
-		{			
-			System.out.print(newNode.data.getTerm()) ;
-			newNode = newNode.link ;
-			System.out.print(newNode != null ? " + " : "\n") ;
-		}
 	}
 	
 	/**
@@ -129,7 +125,15 @@ public class TermSingleLinkedList
 	@Override
 	public String toString()
 	{
-		return "Total elements in list: " + size ;
+		String temp = "" ;
+		Node newNode = this.head ;
+		while (newNode != null)
+		{			
+			temp += newNode.data.getTerm() ;
+			newNode = newNode.link ;
+			temp += newNode != null ? " + " : "\n" ;
+		}
+		return temp.length() > 0 ? temp : null ;
 	}
 	
 	/**
@@ -138,6 +142,11 @@ public class TermSingleLinkedList
 	@Override
 	public boolean equals(Object object)
 	{
-		return getClass() == object.getClass() && this ==  object;
+		if (object == null || getClass() != object.getClass() )
+		{
+			return false ;
+		}
+		TermSingleLinkedList other = (TermSingleLinkedList) object ;
+		return toString().equals(other.toString()) ;
 	}
 }

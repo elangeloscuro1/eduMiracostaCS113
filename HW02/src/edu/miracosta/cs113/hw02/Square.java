@@ -3,11 +3,11 @@
  * Since the class Shape is an Abstract class,
  * The methods computeArea, computePerimeter,
  * and readShapeData need to be implemented.
- * 
- * 
- * @author Angel Tapia
- *
  */
+/**
+ *  @author Angel Tapia
+ */
+
 
 package edu.miracosta.cs113.hw02;
 import java.util.Scanner ;
@@ -59,19 +59,32 @@ public class Square extends Shape
 	{
 		this.size = size ;
 	}
-
+	
+	/**
+	 * Calculates the area of the square.
+	 * 
+	 * @return the area of the square.
+	 */
 	@Override
 	public double computeArea()
 	{
 		return (size * size) ;
 	}
 
+	/**
+	 * Calculates the perimeter of the square.
+	 * 
+	 * @return the perimeter of the square.
+	 */
 	@Override
 	public double computePerimeter()
 	{
 		return (size * 4) ;
 	}
 
+	/**
+	 * Asks the user to enter the size of the square.
+	 */
 	@Override
 	public void readShapeData()
 	{
@@ -84,7 +97,7 @@ public class Square extends Shape
 	/**
 	 * Create a string representation of the square.
 	 * 
-	 * @return A string representation of the suqare
+	 * @return A string representation of the square
 	 */
 	@Override
 	public String toString()

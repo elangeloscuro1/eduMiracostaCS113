@@ -2,6 +2,9 @@
  * Term is a class that represent an algebraic term
  * and has fields for coefficient variable and exponent.
  */
+/**
+ * @author Angel Tapia
+ */
 
 package polynomial ;
 
@@ -72,9 +75,9 @@ public class Term implements Comparable
 	 */
 	public Term(Term term)
 	{
-		this.coefficient = term.getCoefficient() ;
-		this.exponent = term.getExponent() ;
-		this.variable = term.getVariable() ;
+		this.coefficient = term.coefficient ;
+		this.exponent = term.exponent ;
+		this.variable = term.variable ;
 	}
 	
 	/**
@@ -93,7 +96,7 @@ public class Term implements Comparable
 	 */
 	public int getExponent()
 	{
-		return exponent ;
+		return this.exponent ;
 	}
 	
 	/**
@@ -112,7 +115,7 @@ public class Term implements Comparable
 	 */
 	public int getCoefficient()
 	{
-		return coefficient ;
+		return this.coefficient ;
 	}
 	
 	/**
@@ -194,7 +197,13 @@ public class Term implements Comparable
 	@Override
 	public int compareTo(Object object)
 	{
-		Term other = (Term) object ;
+		
+		if (object == null || getClass() != object.getClass())
+		{
+			return -1 ;
+		}
+		
+		Term other = (Term) object ; //NEED TO DO INTROSPECTION
 
 		if (this.exponent > other.getExponent())
 		{
@@ -213,7 +222,7 @@ public class Term implements Comparable
 	@Override
 	public String toString()
 	{
-		return coefficient + variable + "^" + exponent ;
+		return this.coefficient + this.variable + "^" + this.exponent ;
 	}
 	
 	/**
@@ -230,7 +239,7 @@ public class Term implements Comparable
 		}
 		
 		Term other = (Term) object ;
-		return exponent == other.getExponent() 
-			&& coefficient == other.getCoefficient()  ;
+		return this.exponent == other.exponent 
+			&& this.coefficient == other.coefficient && this.variable.equals(other.variable)  ;
 	}
 }

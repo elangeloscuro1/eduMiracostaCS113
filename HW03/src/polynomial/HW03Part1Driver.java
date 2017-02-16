@@ -38,7 +38,7 @@
  *  		-Display the final result.
  */
 /**
- * @author Ange Tapia
+ * @author Angel Tapia
  */
 
 package polynomial ;

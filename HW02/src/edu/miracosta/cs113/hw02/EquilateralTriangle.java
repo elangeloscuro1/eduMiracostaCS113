@@ -3,10 +3,9 @@
  * Since the class Shape is an Abstract class,
  * The methods computeArea, computePerimeter,
  * and readShapeData need to be implemented.
- * 
- * 
- * @author Angel Tapia
- *
+ */
+/**
+ *  @author Angel Tapia
  */
 
 package edu.miracosta.cs113.hw02 ;
@@ -34,6 +33,7 @@ public class EquilateralTriangle extends Shape
 
 	/**
 	 * Full constructor receives a name for the shape
+	 * 
 	 * @param shapeName represent the name for the shape
 	 */
 	public EquilateralTriangle(String shapeName)
@@ -44,6 +44,7 @@ public class EquilateralTriangle extends Shape
 
 	/**
 	 * Accessor for size	
+	 * 
 	 * @return size of Equilateral Triangle
 	 */
 	public double getSize()
@@ -53,6 +54,7 @@ public class EquilateralTriangle extends Shape
 
 	/**
 	 * Mutator for size.
+	 * 
 	 * @param size represents the size of the  Equilateral Triangle
 	 */
 	public void setSize(double size)
@@ -60,18 +62,31 @@ public class EquilateralTriangle extends Shape
 		this.size = size ;
 	}
 	
+	/**
+	 * Calculates the area of the equilateral triagle.
+	 * 
+	 * @return the area of the Equilateral Triangle
+	 */
 	@Override
 	public double computeArea()
 	{
-		return (size * size) / 2 ;
+		return (size * size) / 2.0 ;
 	}
-
+	
+	/**
+	 * Calculate the perimeter of the equilateral triangle.s
+	 * 
+	 *@return the perimeter of the Equilateral Triangle
+	 */
 	@Override
 	public double computePerimeter()
 	{
 		return size * 3 ;
 	}
-
+	
+	/**
+	 * Asks the user to enter the size of the triangle.
+	 */
 	@Override
 	public void readShapeData()
 	{
@@ -93,13 +108,14 @@ public class EquilateralTriangle extends Shape
 	}
 	/**
 	 * Compares the values of two objects of the class EquilateralTriangle
+	 * 
 	 * @param obj represent another object of the class EquilateralTriangle
 	 * @return true if the size are equals
 	 */
 	@Override
 	public boolean equals(Object obj)
 	{
-		if (obj == null && getClass() != obj.getClass())
+		if (obj == null || getClass() != obj.getClass())
 		{
 			return false ;
 		}

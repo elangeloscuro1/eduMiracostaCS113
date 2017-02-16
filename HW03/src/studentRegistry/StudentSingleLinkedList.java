@@ -1,4 +1,11 @@
-
+/**
+ * This class Creates a list of students and can
+ * add a student to the beginning or end of the list
+ * And can also remove the first or by name from the list.
+ */
+/**
+ * @author Angel Tapia
+ */
 package studentRegistry ;
 
 public class StudentSingleLinkedList
@@ -28,8 +35,8 @@ public class StudentSingleLinkedList
 	 */
 	public StudentSingleLinkedList()
 	{
-		size = 0 ;
-		head = null ;
+		this.size = 0 ;
+		this.head = null ;
 	}
 
 	/**
@@ -40,7 +47,7 @@ public class StudentSingleLinkedList
 	public void addToStart(String name)
 	{
 		
-		head = new Node(new Student(name, 1), head) ;
+		this.head = new Node(new Student(name, 1), head) ;
 		Node temp = head ;
 		
 		for (int i = 1 ; temp != null ; i++)
@@ -48,8 +55,7 @@ public class StudentSingleLinkedList
 			temp.data.setNumberInLine(i) ;
 			temp = temp.link ;
 		}
-		size++ ;
-		
+		size++ ;		
 	}
 
 	/**
@@ -59,20 +65,19 @@ public class StudentSingleLinkedList
 	 */
 	public void addToEnd(String name)
 	{
-		if (head == null)
+		if (this.head == null)
 		{
 			addToStart(name) ;
 		}
 		else
 		{
-			Node newNode = head ;
+			Node newNode = this.head ;
 			while (newNode.link != null)
 			{
 				newNode = newNode.link ;
 			}
-			newNode.link = new Node(new Student(name, size + 1), newNode.link) ;
+			newNode.link = new Node(new Student(name, ++size), newNode.link) ;
 		}
-		size++ ;
 	}
 
 	/**
@@ -82,13 +87,13 @@ public class StudentSingleLinkedList
 	 */
 	public Student removeFirst()
 	{
-		if (head == null)
+		if (this.head == null)
 		{
 			return null ;
 		}
 		Student temp = head.data ;
 		size-- ;
-		Node tempHead = head = head.link ;
+		Node tempHead = this.head = this.head.link ;
 		for (int i = 0; tempHead != null; i++)
 		{
 			tempHead.data.setNumberInLine(i + 1) ;
@@ -104,15 +109,15 @@ public class StudentSingleLinkedList
 	 */
 	public Student remove(String name)
 	{
-		Node temp = head ;
+		Node temp = this.head ;
 		Student student = null ;
 		int index = 0 ;
 		
-		if (head == null)
+		if (this.head == null)
 		{
 			return null ;
 		}
-		if (head != null && temp.data.getName().equals(name))
+		if (this.head != null && temp.data.getName().equals(name))
 		{
 			return removeFirst() ;
 		}
@@ -123,7 +128,8 @@ public class StudentSingleLinkedList
 			{
 				student = temp.link.data ;
 				temp.link = temp.link.link ;
-				index-- ;				
+				index-- ;
+				size-- ;
 			}
 			else 
 			{				
@@ -139,38 +145,60 @@ public class StudentSingleLinkedList
 	 */
 	public int getSize()
 	{
-		return size ;
+		return this.size ;
 	}
-
+	
 	/**
-	 * display every term in the list as an algebraic expression.
+	 * @return an element from a specific index
+	 * 		   or null if index is greater than the list size.
 	 */
-	public void displayList()
+	public Student get(int index)
 	{
-		Node newNode = head ;
-		while (newNode != null)
+		Node temp = this.head ;
+		for (int i = 0 ; temp != null && i < index ; i++)
 		{
-			System.out.println(newNode.data) ;
-			newNode = newNode.link ;
+			temp = temp.link ;
 		}
+		return temp == null ? null : temp.data ;
 	}
 
 	/**
-	 * @return list size information
+	 * @return the every student in the list.
 	 */
 	@Override
 	public String toString()
 	{
-		return "Total elements in list: " + size ;
+		String temp = "" ;
+		Node newNode = this.head ;
+		while (newNode != null)
+		{
+			temp += newNode.data + "\n" ;
+			newNode = newNode.link ;
+		}
+		return temp.length() > 0 ? temp : null ;
 	}
 
 	/**
-	 * @return true if both object have the same reference
+	 * @return true if every element in the both lists have the same value.
 	 */
 	@Override
 	public boolean equals(Object object)
 	{
-		return getClass() == object.getClass() && this == object ;
+		if (object == null || getClass() != object.getClass() )
+		{
+			return false ;
+		}
+		Node thisList = this.head ;
+		Node otherList = ((StudentSingleLinkedList) object).head ;
+		while (thisList != null && otherList != null)
+		{
+			if (!thisList.data.equals(otherList.data))
+			{
+				return false ;
+			}
+			thisList = thisList.link ;
+			otherList = otherList.link ;
+		}
+		return true ;
 	}
-
 }

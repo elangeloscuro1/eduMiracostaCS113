@@ -1,5 +1,10 @@
-
-
+/**
+ * This class saves data of a student by name and 
+ * position that can be used for a waiting list.
+ */
+/**
+ * @author Angel Tapia
+ */
 package studentRegistry;
 
 public class Student
@@ -14,7 +19,6 @@ public class Student
 	 */
 	public Student()
 	{
-		super() ;
 		this.name = "Unknown" ;
 		this.numberInLine = 0 ;
 	}
@@ -38,14 +42,14 @@ public class Student
 	 */
 	public Student(Student student)
 	{
-		this.name = student.getName();
-		this.numberInLine = student.getNumberInLine() ;
+		this.name = student.name ;
+		this.numberInLine = student.numberInLine ;
 	}
 	
 	/**
 	 * Mutator for the name of the student.
 	 * 
-	 * @param name represents the name of the stident.
+	 * @param name represents the name of the student.
 	 */
 	public void setName(String name)
 	{
