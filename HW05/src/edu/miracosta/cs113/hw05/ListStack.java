@@ -1,30 +1,50 @@
-package edu.miracosta.cs113.lab07;
+package edu.miracosta.cs113.hw05;
 
-import java.util.ArrayList ;
 import java.util.EmptyStackException ;
 
 /**
- * ArrayStack is a basic implementation of a stack builded with
- * an ArrayList object as the data holder.
+ * ListStack is an implementation of a stack data structure.
+ * It uses an inner class Node to store a data list for the stack.
  */
 /**
  * @author Angel Tapia
  *
- * @param <T> Generic type ArrayStack
+ * @param <T> Generic type ListStack
  */
 
-public class ArrayStack<T>
-{	
-	/** arrayStack stores every item for the stack */
-	private ArrayList<T> arrayStack ;
+public class ListStack<T>
+{
+	/** topOfStack represents the top of the stack
+	 *  and links to the rest of the elements */
+	private Node<T> topOfStack ;
+	
+//	/** size counts the number of elements in the stack */
+//	private int size ;
+	
+	/***********************************
+	 * Inner Generic Class Node
+	 * (stores data for the stack)
+	 ***********************************/
+	private static class Node<T> 
+	{
+		private Node<T> link ;
+		private T data ;
+		
+		private Node(T data, Node<T> link)
+		{
+			this.data = data ;
+			this.link = link ;
+		}
+	}// End of inner class	
+	
 	
 	/**
-	 * Default constructor initializes arrayStack.
+	 * Default constructor initializes topOfStack.
 	 */
-	public ArrayStack()
+	public ListStack()
 	{
-		arrayStack = new ArrayList<T>() ;
-	}
+		this.topOfStack = null ;
+	}	
 	
 	/**
 	 * empty checks if the stack is empty.
@@ -33,7 +53,7 @@ public class ArrayStack<T>
 	 */
 	public boolean empty()
 	{
-		return arrayStack.size() == 0 ;
+		return this.topOfStack == null ;
 	}
 	
 	/**
@@ -48,7 +68,7 @@ public class ArrayStack<T>
 		{
 			throw new EmptyStackException() ;
 		}
-		return arrayStack.get(arrayStack.size() - 1) ;
+		return this.topOfStack.data ;
 	}
 	
 	/**
@@ -63,7 +83,9 @@ public class ArrayStack<T>
 		{
 			throw new EmptyStackException() ;
 		}
-		return arrayStack.remove(arrayStack.size() - 1) ;		
+		T temp = this.topOfStack.data ;
+		this.topOfStack = this.topOfStack.link ;
+		return temp ;		
 	}
 	
 	/**
@@ -74,7 +96,7 @@ public class ArrayStack<T>
 	 */
 	public T push(T object)
 	{
-		arrayStack.add(object) ;
+		this.topOfStack = new Node<T>(object, this.topOfStack) ;
 		return object ;
 	}
 	
@@ -87,9 +109,12 @@ public class ArrayStack<T>
 	public String toString()
 	{
 		String temp = "" ;
-		for (T e : arrayStack)
+		Node<T> tempNode = this.topOfStack ;
+		
+		while (tempNode != null)
 		{
-			temp = e + "\n" + temp ;
+			temp += tempNode.data + "\n" ;			
+			tempNode = tempNode.link ;
 		}
 		return temp.trim() ;
 	}
@@ -110,8 +135,7 @@ public class ArrayStack<T>
 		}
 		
 		@SuppressWarnings("unchecked")
-		ArrayStack<T> other = (ArrayStack<T>) obj ;
-		
+		ListStack<T> other = (ListStack<T>) obj ;		
 		return toString().equals(other.toString()) ;		
 	}	
 }
