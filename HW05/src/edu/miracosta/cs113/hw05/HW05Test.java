@@ -83,15 +83,6 @@ public class HW05Test
 
 		
 		test = new PalindromeTester("I saw i was i");		
-		System.out.println("\n" + test) ;
-		
-		
-
-		
-		
-		
-
-
-		
+		System.out.println("\n" + test) ;		
 	}
 }
