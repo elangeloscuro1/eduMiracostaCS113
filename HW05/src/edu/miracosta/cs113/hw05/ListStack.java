@@ -18,9 +18,6 @@ public class ListStack<T>
 	 *  and links to the rest of the elements */
 	private Node<T> topOfStack ;
 	
-//	/** size counts the number of elements in the stack */
-//	private int size ;
-	
 	/***********************************
 	 * Inner Generic Class Node
 	 * (stores data for the stack)
