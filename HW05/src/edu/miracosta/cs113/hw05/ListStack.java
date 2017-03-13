@@ -17,6 +17,7 @@ public class ListStack<T>
 	/** topOfStack represents the top of the stack
 	 *  and links to the rest of the elements */
 	private Node<T> topOfStack ;
+	//private LinkedList<T> theData;
 	
 	/***********************************
 	 * Inner Generic Class Node
@@ -50,7 +51,7 @@ public class ListStack<T>
 	 */
 	public boolean empty()
 	{
-		return this.topOfStack == null ;
+		return this.topOfStack == null ; //return theData.empty();
 	}
 	
 	/**
