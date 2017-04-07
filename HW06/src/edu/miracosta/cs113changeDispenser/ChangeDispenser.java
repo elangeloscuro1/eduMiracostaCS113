@@ -55,7 +55,7 @@ public class ChangeDispenser
 		{
 			changeDispenser(total, quarters + 1, dimes, nickels, pennies - 25) ;
 		}
-	}	
+	}
 	
 	// main
 	public static void main(String[] args)
