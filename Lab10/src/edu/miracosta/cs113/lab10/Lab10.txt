@@ -1,0 +1,13 @@
+Do the 3 types of traversals for the following tree
+
+              lay
+            /     \                      
+           /       \                               
+       house        rat                          
+       /  \        /   \                 
+      /    \      /     \               
+    cow   jack  milked  that                           
+                                                                            
+Preorder: lay, house, cow, jack, rat, milked, that
+Inorder: cow, house, jack, lay, milked, rat, that
+Postorder: cow, jack, house, milked, that, rat, lay
