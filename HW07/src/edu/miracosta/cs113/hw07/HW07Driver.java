@@ -5,10 +5,20 @@ package edu.miracosta.cs113.hw07;
  * A) Implement the generic BinaryTree data structure(slide show)
  * 	 
  * B) Create a class that extends BinaryTree with String parameter.
- * 		Create a method build tree that reads a text file that contains the letters
- * 		and their respectively morse coded.
-  		-Crwate a metho decodeMessage:
-  		-Create method EncodeMessage.
+ * 	 Create a method build tree that reads a text file that contains the letters
+ * 	 and their respectively morse coded.
+ * 	-Create a morseSymbols array of the type String to store the morse code symbols.
+ * 	-Create the default constructor that initializes the tree data structure and
+ * 	 morseSymbols with capacity of 'z - 'a + 1 
+ * 	-Create a method buildTree that reads the file that contains the morse code
+ *   and stores in the tree data structure.
+ *	-Create a method encodeMessage that receives a text (String) and translate it to morse code.*
+ *  -Create method decodeMessage that receives a morse code message and translate it to text.
+ *  -Add a menu method that display option to the user.
+ *  C) Create the driver class
+ *  -Create an instance of the MorseCodeTree.
+ *  -Create a while loop to allow the user to use the program for more that one time.
+ *   Add a switch statement to perform the user's option.   		
  */
 import java.io.FileInputStream ;
 import java.io.FileNotFoundException ;
