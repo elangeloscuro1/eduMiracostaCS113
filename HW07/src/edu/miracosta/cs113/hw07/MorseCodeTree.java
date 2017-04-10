@@ -5,7 +5,12 @@ import java.io.FileInputStream ;
 import java.io.FileNotFoundException ;
 import java.util.Scanner ;
 
-
+/**
+ * MorseCodeTree is a morse code translator from morse code to text.
+ * 
+ * @author Angel Tapia <angelTapia07084759@gmail.com>
+ * @version 1.0
+ */
 @SuppressWarnings("serial")
 public class MorseCodeTree extends BinaryTree<String>
 {

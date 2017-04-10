@@ -1,10 +1,23 @@
 package edu.miracosta.cs113.hw07;
 
-
+/**
+ * Algorithm:
+ * A) Implement the generic BinaryTree data structure(slide show)
+ * 	 
+ * B) Create a class that extends BinaryTree with String parameter.
+ * 		Create a method build tree that reads a text file that contains the letters
+ * 		and their respectively morse coded.
+  		-Crwate a metho decodeMessage:
+  		-Create method EncodeMessage.
+ */
 import java.io.FileInputStream ;
 import java.io.FileNotFoundException ;
 import java.util.Scanner ;
-
+/**
+ * 
+ * HW07Driver offers option view a morse code chart; translate from morse code to text 
+ * or from text to morse code
+ */
 public class HW07Driver
 {
 
@@ -57,8 +70,5 @@ public class HW07Driver
 			option = test.menu() ;
 		}
 		userIn.close() ;
-	
-
 	}
-
 }
