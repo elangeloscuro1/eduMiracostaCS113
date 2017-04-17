@@ -34,7 +34,14 @@ public class HW07Driver
 	@SuppressWarnings("resource")
 	public static void main(String[] args)//MorseCodeTable.txt
 	{
+		
+		
 		MorseCodeTree test = new MorseCodeTree() ;
+		
+		System.out.println(test) ;
+		
+		
+		
 		Scanner userIn = new Scanner(System.in) ;
 		int option = test.menu() ;
 		
