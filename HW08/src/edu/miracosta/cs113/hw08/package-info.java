@@ -5,9 +5,9 @@
  * -MinHeap: a subclass of the abstract class Heap.
  * -MaxHeap: a subclass of the abstract class Heap.
  * -Student: a concrete class that represent a student.
- * -CompareStudentByID extends Heap and implements Comparator that
+ * -CompareStudentByID implements the Comparator interface which
  *  takes a Student as its parameter.
- * -CompareStudentByName extends Heap and implements Comparator that 
+ * -CompareStudentByName implements the Comparator interface which
  *  takes a Student as its parameter.
  * -HW08Tester tests Heap, MinHeap, MaxHeap, with instances 
  *  of the comparator interface.

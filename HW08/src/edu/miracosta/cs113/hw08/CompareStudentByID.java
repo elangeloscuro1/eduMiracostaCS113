@@ -3,7 +3,7 @@ package edu.miracosta.cs113.hw08;
 import java.util.Comparator ;
 
 /**
- * CompareStudentByID extends Heap and implements Comparator that
+ * CompareStudentByID implements the Comparator interface which
  * takes a Student as its parameter.
  * This class can be used to prioritize students in a heap
  * for a student registration list.
