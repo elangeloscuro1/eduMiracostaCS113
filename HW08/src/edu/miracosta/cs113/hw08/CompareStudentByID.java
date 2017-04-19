@@ -16,21 +16,27 @@ public class CompareStudentByID implements Comparator<Student>
 	/**
 	 * Compares students by ID.
 	 * 
-	 * @return -1 if left has less priority than right; 0 if left has equals 
-     * 			priority than right, and 1 if left has greater priority than right.
-	 */
+     * @param left: left  element to be compared.
+     * @param right: right element to be compared.
+	 * @return   1 if left element comes before the right element lexicographically.
+	 * 			-1 if left element comes after the right element lexicographically.
+	 * 			 0 if both elements are equals.
+     */
 	@Override
-	public int compare(Student o1, Student o2)
+	public int compare(Student left, Student right)
 	{
-		if (o1.getStudentID() < o2.getStudentID())
+		if (left.getStudentID() < right.getStudentID())
 		{
 			return -1 ;
 		}
-		if (o1.getStudentID() > o2.getStudentID())
+		else if (left.getStudentID() > right.getStudentID())
 		{
 			return 1 ;
 		}
-		return 0 ;
+		else
+		{
+			return 0 ;
+		}
 	}
 
 }

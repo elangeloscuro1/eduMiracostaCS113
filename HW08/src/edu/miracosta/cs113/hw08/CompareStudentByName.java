@@ -1,4 +1,4 @@
-package edu.miracosta.cs113.hw08;
+package edu.miracosta.cs113.hw08 ;
 
 import java.util.Comparator ;
 
@@ -15,21 +15,15 @@ public class CompareStudentByName implements Comparator<Student>
 	/**
 	 * Compares students by Name.
 	 * 
-	 * @return -1 if left has less priority than right; 0 if left has equals 
-     * 			priority than right, and 1 if left has greater priority than right.
-	 */
+	 * @param left: left  element to be compared.
+     * @param right: right element to be compared.
+	 * @return   1 if left element comes before the right element lexicographically.
+	 * 			-1 if left element comes after the right element lexicographically.
+	 * 			 0 if both elements are equals.
+     */
 	@Override
-	public int compare(Student o1, Student o2)
+	public int compare(Student left, Student right)
 	{
-		if (o1.getFirstName().compareTo(o2.getFirstName()) < 0)
-		{
-			return -1 ;
-		}
-		if (o1.getFirstName().compareTo(o2.getFirstName()) > 0)
-		{
-			return 1 ;
-		}
-		return 0 ;
+		return left.getFirstName().compareTo(right.getFirstName()) ;
 	}
-
 }

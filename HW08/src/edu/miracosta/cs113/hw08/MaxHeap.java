@@ -1,4 +1,4 @@
-package edu.miracosta.cs113.hw08;
+package edu.miracosta.cs113.hw08 ;
 
 import java.util.Comparator ;
 
@@ -38,21 +38,24 @@ public class MaxHeap<E> extends Heap<E>
 	
 	/**
      * If Comparator is not null, compares two elements using the compare method
-     * else, uses the natural order compareTo method ;
+     * else, uses the default natural ordering compareTo method ;
      * 
-     * @return -1 if left has less priority than right; 0 if left has equals 
-     * 			priority than right, and 1 if left has greater priority than right.
+     * @param left: left  element to be compared.
+     * @param right: right element to be compared.
+	 * @return  -1 if left element comes before the right element lexicographically.
+	 * 			 1 if left element comes after the right element lexicographically.
+	 * 			 0 if both elements are equals.
      */
 	@SuppressWarnings("unchecked")
-	public int compare(E left, E right)// protected
+	public int compare(E left, E right)
 	{
 		if (this.comparator != null)
 		{
 			return this.comparator.compare(left, right) * -1 ;
 		}
 		else
-		{
-			return ((Comparable<E>) left).compareTo(right) ;
+		{			
+			return ((Comparable<E>) left).compareTo(right) * -1 ;			
 		}
 	}
 }

@@ -1,4 +1,4 @@
-package edu.miracosta.cs113.hw08;
+package edu.miracosta.cs113.hw08 ;
 
 import java.util.ArrayList ;
 import java.util.NoSuchElementException ;
@@ -28,6 +28,8 @@ public abstract class Heap<E>
 	/**
      * Abstract method compare must be defined in subclasses.
      * 
+     * @param left element to the left to be compared.
+     * @param right element to the right to be compared.
      * @return -1 if left has less priority than right; 0 if left has equals 
      * 			priority than right, and 1 if left has greater priority than right.
      */
@@ -39,7 +41,7 @@ public abstract class Heap<E>
 	 * @param i: first index of the element to be swapped.
 	 * @param j: second index of the element to be swapped.
 	 */
-	private void swap(int i, int j)// protected
+	private void swap(int i, int j)
 	{
 		E tempData = this.theData.get(i) ;
 		this.theData.set(i, this.theData.get(j)) ;
@@ -75,7 +77,7 @@ public abstract class Heap<E>
 	public boolean offer(E item)
 	{
 		this.theData.add(item) ;
-
+		
 		int child = this.theData.size() - 1 ;
 		int parent = (child - 1) / 2 ;
 
@@ -135,7 +137,7 @@ public abstract class Heap<E>
 			this.theData.remove(0) ;
 			return result ;
 		}
-		
+				
 		this.theData.set(0, this.theData.remove(this.theData.size() - 1)) ;
 		
 		for (int p = 0 ; p <= (this.theData.size() - 2) / 2 ; p++)

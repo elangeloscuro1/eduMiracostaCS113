@@ -58,13 +58,14 @@ public class HW08Tester
 		
 		// An Array of student to be tested.
 		Student[] students = 
-				{ new Student("Angel",    "Tapia",      338, 2017)
-				, new Student("Angel",    "Tapia",      240, 2000)
-				, new Student("Pascual",  "Hernadez",   541, 2007)
-				, new Student("Hector",   "Torres",     162, 2011)
-				, new Student("Luis",     "Garcia",     133, 2001)
-				, new Student("Pedro",    "Fernandez",  174, 2001)
-				, new Student("Antonio",  "Perez",      445, 2009)} ;
+				{new Student("Angel",    "Tapia",       2017, 338)
+				, new Student("Angel",    "Tapia",      2000, 240)
+				, new Student("Pascual",  "Hernadez",   2007, 541)
+				, new Student("Hector",   "Torres",     2011, 162)
+				, new Student("Luis",     "Garcia",     2001, 133)
+				, new Student("Pedro",    "Fernandez",  2001, 174)
+				, new Student("Antonio",  "Perez",      2009, 445)} ;
+		
 		
 		// Instances for min and max heaps that receives a comparable object to prioritize by specific students.
 		Heap<Student> minHeapByID = new MinHeap<Student>(new CompareStudentByID()) ;
@@ -80,9 +81,9 @@ public class HW08Tester
 			minHeapByName.offer(student) ;
 			maxHeapByName.offer(student) ;
 		}
-		
+				
 		// Displaying results.
-		System.out.printf(Student.FORMAT + "%n", "FIRST_NAME", "LAST_NAME", "ID_NUMBER", "YEAR_ADMITTED") ;
+		System.out.printf(Student.FORMAT + "%n", "FIRST_NAME", "LAST_NAME", "YEAR_ADMITTED", "ID_NUMBER") ;
 		System.out.println("Students by smallest ID number:") ;
 		System.out.println(minHeapByID) ;
 		System.out.println("Students by largest ID number: ") ;
@@ -90,6 +91,6 @@ public class HW08Tester
 		System.out.println("Students by Name A-Z:") ;
 		System.out.println(minHeapByName) ;
 		System.out.println("Students by name Z-A:") ;
-		System.out.println(maxHeapByName) ;	
+		System.out.println(maxHeapByName) ;
 	}
 }

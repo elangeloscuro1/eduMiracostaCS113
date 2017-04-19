@@ -8,7 +8,7 @@ package edu.miracosta.cs113.hw08;
  * @author Angel Tapia <angelTapia07084759@gmail.com>
  * @version 1.0
  */
-public class Student
+public class Student implements Comparable<Student>
 {
 	/** The format used for the toString method to represent the student info */
 	public static final String FORMAT = "%-15s%-15s%-15s%-15s" ;
@@ -17,10 +17,11 @@ public class Student
 	private String firstName ;
 	/** The last name of the student */
 	private String lastName ;
-	/** The Student ID number */
-	private int studentID ;
 	/** The year the student is admitted */
 	private int yearAdmitted ;
+	/** The Student ID number */
+	private int studentID ;
+	
 	
 	/**
 	 * Default constructor student initializes 
@@ -30,8 +31,9 @@ public class Student
 	{
 		this.firstName = "UNAVAILABLE" ;
 		this.lastName  = "UNAVAILABLE" ;
-		this.studentID = -1 ;
 		this.yearAdmitted = -1;
+		this.studentID = -1 ;
+		
 	}
 	
 	/**
@@ -39,15 +41,15 @@ public class Student
 	 * 
 	 * @param firstName:    The first name of the student
 	 * @param lastName:     The last name of the student
-	 * @param studentID:    The Student ID number
 	 * @param yearAdmitted: The year the student is admitted
+	 * @param studentID:    The Student ID number
 	 */
-	public Student(String firstName, String lastName, int studentID, int yearAdmitted)
+	public Student(String firstName, String lastName, int yearAdmitted, int studentID)
 	{
 		this.firstName = firstName ;
 		this.lastName = lastName ;
-		this.studentID = studentID ;
 		this.yearAdmitted = yearAdmitted ;
+		this.studentID = studentID ;
 	}
 	
 	/**
@@ -90,26 +92,6 @@ public class Student
 	}
 	
 	/**
-	 * Getter for studentID.
-	 * 
-	 * @return the value of studentID.
-	 */
-	public int getStudentID()
-	{
-		return studentID ;
-	}
-	
-	/**
-	 * Setter for studentID.
-	 * 
-	 * @param studentID: the student ID number.
-	 */
-	public void setStudentID(int studentID)
-	{
-		this.studentID = studentID ;
-	}
-	
-	/**
 	 * Getter for yearAdmitted.
 	 * 
 	 * @return the value of yearAdmited.
@@ -130,6 +112,78 @@ public class Student
 	}
 	
 	/**
+	 * Getter for studentID.
+	 * 
+	 * @return the value of studentID.
+	 */
+	public int getStudentID()
+	{
+		return studentID ;
+	}
+	
+	/**
+	 * Setter for studentID.
+	 * 
+	 * @param studentID: the student ID number.
+	 */
+	public void setStudentID(int studentID)
+	{
+		this.studentID = studentID ;
+	}
+		
+	/**
+	 * Compares this and another student lexicographically as follow:
+	 * if this lastName == other lastName then  compares firstName;
+	 * else if this firstName == other firstName then compares yearAdmitted;
+	 * else this yearAdmitted == other yearAdmitted then compares student ID
+	 * 
+	 * @return -1 if this object comes before the other object lexicographically.
+	 * 			1 if this object comes after the other object lexicographically.
+	 * 			0 if both objects are equals.
+	 */	
+	@Override
+	public int compareTo(Student student)
+	{
+		if (this.lastName.compareTo(student.lastName) == 0 )
+		{
+			if (this.firstName.compareTo(student.firstName) == 0)
+			{
+				if (this.yearAdmitted == student.yearAdmitted)
+				{
+					if (this.studentID < student.studentID)
+					{
+						return -1 ;
+					}
+					else if (this.studentID > student.studentID)
+					{
+						return 1 ;
+					}
+					else
+					{
+						return 0 ;
+					}
+				}
+				else if (this.yearAdmitted < student.yearAdmitted)
+				{
+					return -1 ;
+				}
+				else
+				{
+					return 1 ;
+				}				
+			}
+			else
+			{
+				return this.firstName.compareTo(student.firstName) ;
+			}
+		}
+		else
+		{
+			return this.lastName.compareTo(student.lastName) ;
+		}
+	}
+	
+	/**
 	 * Builds a string with all of the information of the student.
 	 * 
 	 * @return a string with all of the information of the student.
@@ -137,8 +191,8 @@ public class Student
 	@Override
 	public String toString()
 	{
-		return String.format(FORMAT, this.firstName
-				, this.lastName, this.studentID, this.yearAdmitted) ;
+		return String.format(FORMAT, this.firstName,
+				this.lastName, this.yearAdmitted, this.studentID) ;
 	}
 	
 	/**
@@ -156,7 +210,7 @@ public class Student
 		Student other = (Student) obj ;
 		return this.firstName.equals(other.firstName)
 				&& this.lastName.equals(other.lastName)
-				&& this.studentID == other.studentID 
-				&& this.yearAdmitted == other.yearAdmitted ;
-	}	
+				&& this.yearAdmitted == other.yearAdmitted
+				&& this.studentID == other.studentID  ;
+	}		
 }
