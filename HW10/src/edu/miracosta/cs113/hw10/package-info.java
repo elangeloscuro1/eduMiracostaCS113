@@ -1,5 +1,6 @@
 /**
- * 
+ * this package contains:
+ * FileMergeSort is sorts file using sequential data files.
  */
 /**
  * @author Angel Tapia <angelTapia07084759@gmail.com>
