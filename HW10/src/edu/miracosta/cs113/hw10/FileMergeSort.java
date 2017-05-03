@@ -1,5 +1,4 @@
 package edu.miracosta.cs113.hw10 ;
-
 import java.io.File ;
 import java.io.FileNotFoundException ;
 import java.io.FileOutputStream ;
@@ -38,18 +37,17 @@ public class FileMergeSort
 	 * 
 	 * @param args Command Lines.
 	 */
-	@SuppressWarnings("resource")
 	public static void main(String[] args)
-	{
+	{		
 		// Files to be used
-		File originalFile = new File("OriginalFileForMergeSort.txt") ;
+		File originalFile = new File("OriginalFileForMergeSort.txt") ;	
 		File leftFile = new File("leftFile.txt") ;
 		File rightFile = new File("rightFile.txt") ;
 		File tempFile = new File("tempFile.txt") ;
 		
 		// flag
 		boolean isSorted = false ;
-		while (!isSorted )
+		while (!isSorted /*&& count < 1*/)
 		{
 			try
 			{
@@ -71,6 +69,7 @@ public class FileMergeSort
 				int countSwaps = 0 ;// counts swaps if current > next
 				
 				// Separating values smaller to leftFile and larger rifgtFile
+				Integer prev = null ;
 				while (scanOriginal.hasNextInt())
 				{
 					int current = scanOriginal.nextInt() ;
@@ -82,25 +81,20 @@ public class FileMergeSort
 						leftWriter.println((next < current) ? next : current) ;
 						rightWriter.println((next > current) ? next : current) ;						
 						leftWriter.flush() ;
-						rightWriter.flush() ;						
+						rightWriter.flush() ;
+						prev = next ;
 						countSwaps = current > next ? (countSwaps + 1) : countSwaps ;						
 					}
 					else
 					{
+						countSwaps = prev != null && prev > current  ? (countSwaps + 1) : countSwaps ;	
 						leftWriter.println(current) ;
 						leftWriter.flush() ;
 					}
-				}
-				
-				isSorted = countSwaps == 0 ;// 0 swaps means is sorted
-				
-				// break loop if there is is no swaps
-				if (isSorted)
-				{
-					return ;
-				}
-
-				boolean isMerging = true ;
+				}System.out.println("SWAPS: " + countSwaps) ;
+								
+				isSorted = countSwaps == 0 ;// 0 swaps means is sorted				
+				boolean isMerging = !isSorted ;
 
 				Integer nextLeft = scanLeft.hasNextInt() ? scanLeft.nextInt() : null ;
 				Integer nextRight = scanRight.hasNextInt() ? scanRight.nextInt() : null ;
@@ -110,7 +104,6 @@ public class FileMergeSort
 				{
 					if (nextLeft != null && nextRight != null)
 					{
-
 						if (nextLeft < nextRight)
 						{
 							newWriter.println(nextLeft) ;
@@ -150,16 +143,19 @@ public class FileMergeSort
 
 				scanOriginal.close() ;
 				scanLeft.close() ;
-				scanRight.close() ;
-				
+				scanRight.close() ;				
 				// Updating original File
-				originalFile.delete() ;
-				tempFile.renameTo(originalFile) ; 
+				if (!isSorted)
+				{
+					originalFile.delete() ;
+					tempFile.renameTo(originalFile) ;
+				}
 			}
 			catch (FileNotFoundException e)
 			{
 				System.out.println(e.getMessage()) ;
 			}
 		}
+		System.out.println("DONE!") ;
 	}// End of main
 }
