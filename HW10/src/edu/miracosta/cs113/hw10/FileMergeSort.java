@@ -47,7 +47,7 @@ public class FileMergeSort
 		
 		// flag
 		boolean isSorted = false ;
-		while (!isSorted /*&& count < 1*/)
+		while (!isSorted)
 		{
 			try
 			{
@@ -91,7 +91,8 @@ public class FileMergeSort
 						leftWriter.println(current) ;
 						leftWriter.flush() ;
 					}
-				}System.out.println("SWAPS: " + countSwaps) ;
+				}
+				
 								
 				isSorted = countSwaps == 0 ;// 0 swaps means is sorted				
 				boolean isMerging = !isSorted ;
