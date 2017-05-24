@@ -1,0 +1,50 @@
+Alabama - Birmingham Shuttlesworth 
+Alaska - Ted Stevens Anchorage 
+Arizona - Phoenix Sky Harbor 
+Arkansas - Northwest Arkansas Regional
+California - Los Angeles 
+Colorado - Denver 
+Connecticut - Bradley 
+Delaware - Wilmington
+Florida - Fort Lauderdale Hollywood 
+Georgia - Hartsfield Jackson Atlanta 
+Hawaii - Honolulu 
+Idaho - Boise Airport
+Illinois - O’Hare 
+Indiana - Indianapolis 
+Iowa - Eastern Iowa Airport
+Kansas - Wichita Dwight D Eisenhower National
+Kentucky - Cincinnati/Northern Kentucky 
+Louisiana - Alexandria
+Maine - Portland International Jet Port
+Maryland - Baltimore Washington 
+Massachusetts - Logan 
+Michigan - Detroit Metropolitan Airport
+Minnesota - Minneapolis/St Paul 
+Mississippi - Jackson Evers 
+Missouri - St Louis Lambert 
+Montana - Bozeman Yellowstone 
+Nebraska - Lincoln Airport
+Nevada - Reno-Tahoe 
+New Hampshire - Manchester-Boston Regional
+New Jersey - Newark Liberty 
+New Mexico - Albuquerque International Sunport
+New York - JFK 
+North Carolina - Charlotte Douglas 
+North Dakota - Bismarck Municipal
+Ohio - John Glenn Columbus 
+Oklahoma - Will Rogers World
+Oregon - Portland 
+Pennsylvania - Philadelphia 
+Rhode Island - T.F. Green Airport
+South Carolina - Charleston 
+South Dakota - Sioux Falls Regional
+Tennessee - Nashville 
+Texas - Austin-Bergstrom 
+Utah - Salt Lake City 
+Vermont - Rutland-Southern Vermont Regional
+Virginia - Richmond 
+Washington - Dulles 
+West Virginia - Yeager Airport
+Wisconsin - Central Wisconsin Airport
+Wyoming - Jackson Hole Airport

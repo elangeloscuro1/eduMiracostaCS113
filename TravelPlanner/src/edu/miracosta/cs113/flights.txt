@@ -1,0 +1,2088 @@
+Alabama - Birmingham Shuttlesworth 
+South Carolina - Charleston 
+580.0
+Alabama - Birmingham Shuttlesworth 
+Missouri - St Louis Lambert 
+837.0
+Alabama - Birmingham Shuttlesworth 
+California - Los Angeles 
+778.0
+Alabama - Birmingham Shuttlesworth 
+Minnesota - Minneapolis/St Paul 
+535.0
+Alabama - Birmingham Shuttlesworth 
+Wisconsin - Central Wisconsin Airport
+334.0
+Alabama - Birmingham Shuttlesworth 
+California - Los Angeles 
+882.0
+Alabama - Birmingham Shuttlesworth 
+Virginia - Richmond 
+438.0
+Alabama - Birmingham Shuttlesworth 
+New York - JFK 
+658.0
+Alabama - Birmingham Shuttlesworth 
+Wyoming - Jackson Hole Airport
+259.0
+Alabama - Birmingham Shuttlesworth 
+Minnesota - Minneapolis/St Paul 
+574.0
+Alabama - Birmingham Shuttlesworth 
+South Dakota - Sioux Falls Regional
+246.0
+Alabama - Birmingham Shuttlesworth 
+New Jersey - Newark Liberty 
+793.0
+Alabama - Birmingham Shuttlesworth 
+Oregon - Portland 
+687.0
+Alabama - Birmingham Shuttlesworth 
+West Virginia - Yeager Airport
+785.0
+Alaska - Ted Stevens Anchorage 
+Florida - Fort Lauderdale Hollywood 
+704.0
+Alaska - Ted Stevens Anchorage 
+Colorado - Denver 
+626.0
+Alaska - Ted Stevens Anchorage 
+Washington - Dulles 
+764.0
+Alaska - Ted Stevens Anchorage 
+Rhode Island - T.F. Green Airport
+810.0
+Alaska - Ted Stevens Anchorage 
+Montana - Bozeman Yellowstone 
+950.0
+Alaska - Ted Stevens Anchorage 
+Minnesota - Minneapolis/St Paul 
+246.0
+Alaska - Ted Stevens Anchorage 
+North Dakota - Bismarck Municipal
+274.0
+Alaska - Ted Stevens Anchorage 
+Ohio - John Glenn Columbus 
+718.0
+Alaska - Ted Stevens Anchorage 
+Alaska - Ted Stevens Anchorage 
+802.0
+Alaska - Ted Stevens Anchorage 
+Montana - Bozeman Yellowstone 
+269.0
+Alaska - Ted Stevens Anchorage 
+Texas - Austin-Bergstrom 
+928.0
+Alaska - Ted Stevens Anchorage 
+Alaska - Ted Stevens Anchorage 
+518.0
+Alaska - Ted Stevens Anchorage 
+North Carolina - Charlotte Douglas 
+334.0
+Alaska - Ted Stevens Anchorage 
+Arizona - Phoenix Sky Harbor 
+644.0
+Alaska - Ted Stevens Anchorage 
+Texas - Austin-Bergstrom 
+775.0
+Alaska - Ted Stevens Anchorage 
+Oregon - Portland 
+219.0
+Alaska - Ted Stevens Anchorage 
+California - Los Angeles 
+545.0
+Alaska - Ted Stevens Anchorage 
+Mississippi - Jackson Evers 
+976.0
+Arizona - Phoenix Sky Harbor 
+Vermont - Rutland-Southern Vermont Regional
+408.0
+Arizona - Phoenix Sky Harbor 
+Kentucky - Cincinnati/Northern Kentucky 
+706.0
+Arizona - Phoenix Sky Harbor 
+Alabama - Birmingham Shuttlesworth 
+899.0
+Arizona - Phoenix Sky Harbor 
+Connecticut - Bradley 
+333.0
+Arizona - Phoenix Sky Harbor 
+Nevada - Reno-Tahoe 
+376.0
+Arizona - Phoenix Sky Harbor 
+West Virginia - Yeager Airport
+507.0
+Arizona - Phoenix Sky Harbor 
+Wyoming - Jackson Hole Airport
+630.0
+Arizona - Phoenix Sky Harbor 
+North Carolina - Charlotte Douglas 
+960.0
+Arizona - Phoenix Sky Harbor 
+Minnesota - Minneapolis/St Paul 
+423.0
+Arizona - Phoenix Sky Harbor 
+Missouri - St Louis Lambert 
+525.0
+Arizona - Phoenix Sky Harbor 
+Illinois - O’Hare 
+719.0
+Arizona - Phoenix Sky Harbor 
+Indiana - Indianapolis 
+373.0
+Arizona - Phoenix Sky Harbor 
+Kansas - Wichita Dwight D Eisenhower National
+702.0
+Arkansas - Northwest Arkansas Regional
+Georgia - Hartsfield Jackson Atlanta 
+451.0
+Arkansas - Northwest Arkansas Regional
+Indiana - Indianapolis 
+873.0
+Arkansas - Northwest Arkansas Regional
+Kansas - Wichita Dwight D Eisenhower National
+360.0
+Arkansas - Northwest Arkansas Regional
+Nevada - Reno-Tahoe 
+216.0
+Arkansas - Northwest Arkansas Regional
+Montana - Bozeman Yellowstone 
+712.0
+Arkansas - Northwest Arkansas Regional
+North Carolina - Charlotte Douglas 
+730.0
+Arkansas - Northwest Arkansas Regional
+Oklahoma - Will Rogers World
+207.0
+Arkansas - Northwest Arkansas Regional
+Nevada - Reno-Tahoe 
+606.0
+Arkansas - Northwest Arkansas Regional
+Kentucky - Cincinnati/Northern Kentucky 
+539.0
+Arkansas - Northwest Arkansas Regional
+Maine - Portland International Jet Port
+508.0
+Arkansas - Northwest Arkansas Regional
+Maryland - Baltimore Washington 
+593.0
+Arkansas - Northwest Arkansas Regional
+Nebraska - Lincoln Airport
+862.0
+Arkansas - Northwest Arkansas Regional
+Florida - Fort Lauderdale Hollywood 
+794.0
+California - Los Angeles 
+Rhode Island - T.F. Green Airport
+429.0
+California - Los Angeles 
+Nevada - Reno-Tahoe 
+420.0
+California - Los Angeles 
+California - Los Angeles 
+977.0
+California - Los Angeles 
+Nebraska - Lincoln Airport
+955.0
+California - Los Angeles 
+Oklahoma - Will Rogers World
+774.0
+California - Los Angeles 
+Ohio - John Glenn Columbus 
+494.0
+California - Los Angeles 
+Nevada - Reno-Tahoe 
+610.0
+California - Los Angeles 
+Missouri - St Louis Lambert 
+291.0
+California - Los Angeles 
+Maryland - Baltimore Washington 
+854.0
+California - Los Angeles 
+Maine - Portland International Jet Port
+452.0
+California - Los Angeles 
+South Carolina - Charleston 
+652.0
+California - Los Angeles 
+Arkansas - Northwest Arkansas Regional
+243.0
+California - Los Angeles 
+South Dakota - Sioux Falls Regional
+746.0
+California - Los Angeles 
+California - Los Angeles 
+923.0
+Colorado - Denver 
+Oregon - Portland 
+811.0
+Colorado - Denver 
+Georgia - Hartsfield Jackson Atlanta 
+758.0
+Colorado - Denver 
+Vermont - Rutland-Southern Vermont Regional
+873.0
+Colorado - Denver 
+Nebraska - Lincoln Airport
+688.0
+Colorado - Denver 
+Iowa - Eastern Iowa Airport
+569.0
+Colorado - Denver 
+New York - JFK 
+987.0
+Colorado - Denver 
+North Carolina - Charlotte Douglas 
+576.0
+Colorado - Denver 
+Nevada - Reno-Tahoe 
+843.0
+Colorado - Denver 
+West Virginia - Yeager Airport
+255.0
+Colorado - Denver 
+Utah - Salt Lake City 
+428.0
+Colorado - Denver 
+Louisiana - Alexandria
+844.0
+Connecticut - Bradley 
+Montana - Bozeman Yellowstone 
+380.0
+Connecticut - Bradley 
+Connecticut - Bradley 
+458.0
+Connecticut - Bradley 
+Indiana - Indianapolis 
+627.0
+Connecticut - Bradley 
+Florida - Fort Lauderdale Hollywood 
+983.0
+Connecticut - Bradley 
+Louisiana - Alexandria
+452.0
+Connecticut - Bradley 
+Maryland - Baltimore Washington 
+244.0
+Connecticut - Bradley 
+Rhode Island - T.F. Green Airport
+475.0
+Connecticut - Bradley 
+Colorado - Denver 
+387.0
+Connecticut - Bradley 
+Connecticut - Bradley 
+761.0
+Connecticut - Bradley 
+Missouri - St Louis Lambert 
+696.0
+Connecticut - Bradley 
+North Dakota - Bismarck Municipal
+240.0
+Connecticut - Bradley 
+Kentucky - Cincinnati/Northern Kentucky 
+776.0
+Connecticut - Bradley 
+California - Los Angeles 
+554.0
+Connecticut - Bradley 
+Connecticut - Bradley 
+985.0
+Connecticut - Bradley 
+Iowa - Eastern Iowa Airport
+426.0
+Connecticut - Bradley 
+Wisconsin - Central Wisconsin Airport
+728.0
+Delaware - Wilmington
+Washington - Dulles 
+615.0
+Delaware - Wilmington
+North Carolina - Charlotte Douglas 
+260.0
+Delaware - Wilmington
+Indiana - Indianapolis 
+660.0
+Delaware - Wilmington
+Florida - Fort Lauderdale Hollywood 
+632.0
+Delaware - Wilmington
+Mississippi - Jackson Evers 
+679.0
+Delaware - Wilmington
+Indiana - Indianapolis 
+540.0
+Delaware - Wilmington
+Kansas - Wichita Dwight D Eisenhower National
+390.0
+Delaware - Wilmington
+Kentucky - Cincinnati/Northern Kentucky 
+821.0
+Delaware - Wilmington
+Wisconsin - Central Wisconsin Airport
+672.0
+Delaware - Wilmington
+Colorado - Denver 
+839.0
+Delaware - Wilmington
+Wyoming - Jackson Hole Airport
+771.0
+Delaware - Wilmington
+Kentucky - Cincinnati/Northern Kentucky 
+962.0
+Delaware - Wilmington
+Montana - Bozeman Yellowstone 
+603.0
+Delaware - Wilmington
+Minnesota - Minneapolis/St Paul 
+493.0
+Delaware - Wilmington
+Pennsylvania - Philadelphia 
+680.0
+Delaware - Wilmington
+Arkansas - Northwest Arkansas Regional
+456.0
+Delaware - Wilmington
+Delaware - Wilmington
+218.0
+Delaware - Wilmington
+South Carolina - Charleston 
+385.0
+Florida - Fort Lauderdale Hollywood 
+Rhode Island - T.F. Green Airport
+328.0
+Florida - Fort Lauderdale Hollywood 
+Alaska - Ted Stevens Anchorage 
+719.0
+Florida - Fort Lauderdale Hollywood 
+Kentucky - Cincinnati/Northern Kentucky 
+766.0
+Florida - Fort Lauderdale Hollywood 
+North Carolina - Charlotte Douglas 
+683.0
+Florida - Fort Lauderdale Hollywood 
+Arizona - Phoenix Sky Harbor 
+321.0
+Florida - Fort Lauderdale Hollywood 
+Mississippi - Jackson Evers 
+996.0
+Florida - Fort Lauderdale Hollywood 
+Illinois - O’Hare 
+327.0
+Florida - Fort Lauderdale Hollywood 
+New York - JFK 
+384.0
+Florida - Fort Lauderdale Hollywood 
+Indiana - Indianapolis 
+644.0
+Florida - Fort Lauderdale Hollywood 
+Texas - Austin-Bergstrom 
+890.0
+Florida - Fort Lauderdale Hollywood 
+Arkansas - Northwest Arkansas Regional
+644.0
+Florida - Fort Lauderdale Hollywood 
+Wisconsin - Central Wisconsin Airport
+967.0
+Florida - Fort Lauderdale Hollywood 
+Arizona - Phoenix Sky Harbor 
+596.0
+Florida - Fort Lauderdale Hollywood 
+Florida - Fort Lauderdale Hollywood 
+915.0
+Florida - Fort Lauderdale Hollywood 
+Minnesota - Minneapolis/St Paul 
+538.0
+Georgia - Hartsfield Jackson Atlanta 
+Vermont - Rutland-Southern Vermont Regional
+273.0
+Georgia - Hartsfield Jackson Atlanta 
+Nevada - Reno-Tahoe 
+556.0
+Georgia - Hartsfield Jackson Atlanta 
+Vermont - Rutland-Southern Vermont Regional
+288.0
+Georgia - Hartsfield Jackson Atlanta 
+Kentucky - Cincinnati/Northern Kentucky 
+297.0
+Georgia - Hartsfield Jackson Atlanta 
+Connecticut - Bradley 
+603.0
+Georgia - Hartsfield Jackson Atlanta 
+Alabama - Birmingham Shuttlesworth 
+521.0
+Georgia - Hartsfield Jackson Atlanta 
+South Carolina - Charleston 
+345.0
+Georgia - Hartsfield Jackson Atlanta 
+Oregon - Portland 
+941.0
+Georgia - Hartsfield Jackson Atlanta 
+Delaware - Wilmington
+914.0
+Georgia - Hartsfield Jackson Atlanta 
+Illinois - O’Hare 
+735.0
+Georgia - Hartsfield Jackson Atlanta 
+Washington - Dulles 
+445.0
+Georgia - Hartsfield Jackson Atlanta 
+Indiana - Indianapolis 
+860.0
+Georgia - Hartsfield Jackson Atlanta 
+Wyoming - Jackson Hole Airport
+452.0
+Georgia - Hartsfield Jackson Atlanta 
+Hawaii - Honolulu 
+706.0
+Georgia - Hartsfield Jackson Atlanta 
+Mississippi - Jackson Evers 
+896.0
+Georgia - Hartsfield Jackson Atlanta 
+Louisiana - Alexandria
+727.0
+Georgia - Hartsfield Jackson Atlanta 
+Kansas - Wichita Dwight D Eisenhower National
+311.0
+Georgia - Hartsfield Jackson Atlanta 
+Maine - Portland International Jet Port
+499.0
+Georgia - Hartsfield Jackson Atlanta 
+Minnesota - Minneapolis/St Paul 
+974.0
+Hawaii - Honolulu 
+Oregon - Portland 
+861.0
+Hawaii - Honolulu 
+Hawaii - Honolulu 
+511.0
+Hawaii - Honolulu 
+Wisconsin - Central Wisconsin Airport
+692.0
+Hawaii - Honolulu 
+Maine - Portland International Jet Port
+518.0
+Hawaii - Honolulu 
+Georgia - Hartsfield Jackson Atlanta 
+214.0
+Hawaii - Honolulu 
+Ohio - John Glenn Columbus 
+772.0
+Hawaii - Honolulu 
+Ohio - John Glenn Columbus 
+531.0
+Hawaii - Honolulu 
+New Hampshire - Manchester-Boston Regional
+676.0
+Hawaii - Honolulu 
+Louisiana - Alexandria
+526.0
+Hawaii - Honolulu 
+Washington - Dulles 
+982.0
+Hawaii - Honolulu 
+Texas - Austin-Bergstrom 
+265.0
+Hawaii - Honolulu 
+Utah - Salt Lake City 
+578.0
+Hawaii - Honolulu 
+Colorado - Denver 
+927.0
+Hawaii - Honolulu 
+Texas - Austin-Bergstrom 
+474.0
+Hawaii - Honolulu 
+Alaska - Ted Stevens Anchorage 
+330.0
+Hawaii - Honolulu 
+Nebraska - Lincoln Airport
+617.0
+Hawaii - Honolulu 
+Washington - Dulles 
+517.0
+Hawaii - Honolulu 
+South Dakota - Sioux Falls Regional
+839.0
+Idaho - Boise Airport
+North Dakota - Bismarck Municipal
+835.0
+Idaho - Boise Airport
+Wisconsin - Central Wisconsin Airport
+911.0
+Idaho - Boise Airport
+Minnesota - Minneapolis/St Paul 
+653.0
+Idaho - Boise Airport
+Montana - Bozeman Yellowstone 
+767.0
+Idaho - Boise Airport
+Rhode Island - T.F. Green Airport
+549.0
+Idaho - Boise Airport
+Rhode Island - T.F. Green Airport
+954.0
+Idaho - Boise Airport
+Wisconsin - Central Wisconsin Airport
+383.0
+Idaho - Boise Airport
+Rhode Island - T.F. Green Airport
+501.0
+Idaho - Boise Airport
+Iowa - Eastern Iowa Airport
+800.0
+Idaho - Boise Airport
+Rhode Island - T.F. Green Airport
+816.0
+Idaho - Boise Airport
+New York - JFK 
+469.0
+Illinois - O’Hare 
+California - Los Angeles 
+838.0
+Illinois - O’Hare 
+South Carolina - Charleston 
+763.0
+Illinois - O’Hare 
+Nebraska - Lincoln Airport
+945.0
+Illinois - O’Hare 
+Oklahoma - Will Rogers World
+604.0
+Illinois - O’Hare 
+Hawaii - Honolulu 
+935.0
+Illinois - O’Hare 
+Delaware - Wilmington
+311.0
+Illinois - O’Hare 
+New York - JFK 
+339.0
+Illinois - O’Hare 
+Nevada - Reno-Tahoe 
+423.0
+Illinois - O’Hare 
+California - Los Angeles 
+531.0
+Illinois - O’Hare 
+Arkansas - Northwest Arkansas Regional
+377.0
+Illinois - O’Hare 
+North Carolina - Charlotte Douglas 
+640.0
+Indiana - Indianapolis 
+New York - JFK 
+937.0
+Indiana - Indianapolis 
+West Virginia - Yeager Airport
+388.0
+Indiana - Indianapolis 
+Nebraska - Lincoln Airport
+367.0
+Indiana - Indianapolis 
+Florida - Fort Lauderdale Hollywood 
+886.0
+Indiana - Indianapolis 
+West Virginia - Yeager Airport
+266.0
+Indiana - Indianapolis 
+West Virginia - Yeager Airport
+941.0
+Indiana - Indianapolis 
+Maine - Portland International Jet Port
+694.0
+Indiana - Indianapolis 
+Hawaii - Honolulu 
+876.0
+Indiana - Indianapolis 
+Washington - Dulles 
+869.0
+Indiana - Indianapolis 
+North Dakota - Bismarck Municipal
+511.0
+Indiana - Indianapolis 
+New Mexico - Albuquerque International Sunport
+523.0
+Indiana - Indianapolis 
+Nebraska - Lincoln Airport
+851.0
+Indiana - Indianapolis 
+Wyoming - Jackson Hole Airport
+677.0
+Indiana - Indianapolis 
+Louisiana - Alexandria
+626.0
+Indiana - Indianapolis 
+Idaho - Boise Airport
+838.0
+Iowa - Eastern Iowa Airport
+Illinois - O’Hare 
+957.0
+Iowa - Eastern Iowa Airport
+Connecticut - Bradley 
+386.0
+Iowa - Eastern Iowa Airport
+South Carolina - Charleston 
+381.0
+Iowa - Eastern Iowa Airport
+South Dakota - Sioux Falls Regional
+279.0
+Iowa - Eastern Iowa Airport
+Florida - Fort Lauderdale Hollywood 
+925.0
+Iowa - Eastern Iowa Airport
+New Mexico - Albuquerque International Sunport
+881.0
+Iowa - Eastern Iowa Airport
+Vermont - Rutland-Southern Vermont Regional
+749.0
+Iowa - Eastern Iowa Airport
+Colorado - Denver 
+839.0
+Iowa - Eastern Iowa Airport
+Nevada - Reno-Tahoe 
+407.0
+Iowa - Eastern Iowa Airport
+New Mexico - Albuquerque International Sunport
+447.0
+Iowa - Eastern Iowa Airport
+Nebraska - Lincoln Airport
+505.0
+Iowa - Eastern Iowa Airport
+New Jersey - Newark Liberty 
+278.0
+Kansas - Wichita Dwight D Eisenhower National
+Idaho - Boise Airport
+515.0
+Kansas - Wichita Dwight D Eisenhower National
+Alabama - Birmingham Shuttlesworth 
+449.0
+Kansas - Wichita Dwight D Eisenhower National
+Indiana - Indianapolis 
+872.0
+Kansas - Wichita Dwight D Eisenhower National
+North Carolina - Charlotte Douglas 
+326.0
+Kansas - Wichita Dwight D Eisenhower National
+South Dakota - Sioux Falls Regional
+589.0
+Kansas - Wichita Dwight D Eisenhower National
+Indiana - Indianapolis 
+406.0
+Kansas - Wichita Dwight D Eisenhower National
+Delaware - Wilmington
+440.0
+Kansas - Wichita Dwight D Eisenhower National
+New Jersey - Newark Liberty 
+734.0
+Kansas - Wichita Dwight D Eisenhower National
+Hawaii - Honolulu 
+212.0
+Kansas - Wichita Dwight D Eisenhower National
+North Dakota - Bismarck Municipal
+767.0
+Kansas - Wichita Dwight D Eisenhower National
+Maine - Portland International Jet Port
+278.0
+Kansas - Wichita Dwight D Eisenhower National
+Oklahoma - Will Rogers World
+552.0
+Kansas - Wichita Dwight D Eisenhower National
+Virginia - Richmond 
+204.0
+Kansas - Wichita Dwight D Eisenhower National
+New Jersey - Newark Liberty 
+845.0
+Kansas - Wichita Dwight D Eisenhower National
+New Hampshire - Manchester-Boston Regional
+801.0
+Kentucky - Cincinnati/Northern Kentucky 
+Oklahoma - Will Rogers World
+251.0
+Kentucky - Cincinnati/Northern Kentucky 
+Oklahoma - Will Rogers World
+989.0
+Kentucky - Cincinnati/Northern Kentucky 
+Idaho - Boise Airport
+410.0
+Kentucky - Cincinnati/Northern Kentucky 
+Wyoming - Jackson Hole Airport
+971.0
+Kentucky - Cincinnati/Northern Kentucky 
+Colorado - Denver 
+541.0
+Kentucky - Cincinnati/Northern Kentucky 
+California - Los Angeles 
+946.0
+Kentucky - Cincinnati/Northern Kentucky 
+Massachusetts - Logan 
+496.0
+Kentucky - Cincinnati/Northern Kentucky 
+North Carolina - Charlotte Douglas 
+859.0
+Kentucky - Cincinnati/Northern Kentucky 
+Vermont - Rutland-Southern Vermont Regional
+410.0
+Kentucky - Cincinnati/Northern Kentucky 
+North Carolina - Charlotte Douglas 
+797.0
+Kentucky - Cincinnati/Northern Kentucky 
+Maine - Portland International Jet Port
+748.0
+Louisiana - Alexandria
+Arkansas - Northwest Arkansas Regional
+928.0
+Louisiana - Alexandria
+North Carolina - Charlotte Douglas 
+491.0
+Louisiana - Alexandria
+Arkansas - Northwest Arkansas Regional
+752.0
+Louisiana - Alexandria
+Georgia - Hartsfield Jackson Atlanta 
+816.0
+Louisiana - Alexandria
+Louisiana - Alexandria
+825.0
+Louisiana - Alexandria
+New Hampshire - Manchester-Boston Regional
+924.0
+Louisiana - Alexandria
+Indiana - Indianapolis 
+659.0
+Louisiana - Alexandria
+Vermont - Rutland-Southern Vermont Regional
+422.0
+Louisiana - Alexandria
+Idaho - Boise Airport
+828.0
+Louisiana - Alexandria
+Florida - Fort Lauderdale Hollywood 
+633.0
+Louisiana - Alexandria
+Arkansas - Northwest Arkansas Regional
+913.0
+Louisiana - Alexandria
+Maine - Portland International Jet Port
+404.0
+Louisiana - Alexandria
+Kentucky - Cincinnati/Northern Kentucky 
+362.0
+Louisiana - Alexandria
+New Jersey - Newark Liberty 
+411.0
+Louisiana - Alexandria
+North Dakota - Bismarck Municipal
+400.0
+Louisiana - Alexandria
+Kentucky - Cincinnati/Northern Kentucky 
+510.0
+Louisiana - Alexandria
+Hawaii - Honolulu 
+539.0
+Maine - Portland International Jet Port
+Idaho - Boise Airport
+973.0
+Maine - Portland International Jet Port
+South Dakota - Sioux Falls Regional
+913.0
+Maine - Portland International Jet Port
+Texas - Austin-Bergstrom 
+211.0
+Maine - Portland International Jet Port
+Alaska - Ted Stevens Anchorage 
+929.0
+Maine - Portland International Jet Port
+Alabama - Birmingham Shuttlesworth 
+974.0
+Maine - Portland International Jet Port
+Maine - Portland International Jet Port
+224.0
+Maine - Portland International Jet Port
+Montana - Bozeman Yellowstone 
+738.0
+Maine - Portland International Jet Port
+Indiana - Indianapolis 
+372.0
+Maine - Portland International Jet Port
+New Hampshire - Manchester-Boston Regional
+766.0
+Maine - Portland International Jet Port
+Alaska - Ted Stevens Anchorage 
+493.0
+Maine - Portland International Jet Port
+New Jersey - Newark Liberty 
+925.0
+Maryland - Baltimore Washington 
+Montana - Bozeman Yellowstone 
+747.0
+Maryland - Baltimore Washington 
+Wyoming - Jackson Hole Airport
+329.0
+Maryland - Baltimore Washington 
+North Carolina - Charlotte Douglas 
+734.0
+Maryland - Baltimore Washington 
+North Carolina - Charlotte Douglas 
+236.0
+Maryland - Baltimore Washington 
+Arizona - Phoenix Sky Harbor 
+263.0
+Maryland - Baltimore Washington 
+North Dakota - Bismarck Municipal
+372.0
+Maryland - Baltimore Washington 
+Mississippi - Jackson Evers 
+251.0
+Maryland - Baltimore Washington 
+Rhode Island - T.F. Green Airport
+376.0
+Maryland - Baltimore Washington 
+Missouri - St Louis Lambert 
+617.0
+Maryland - Baltimore Washington 
+Ohio - John Glenn Columbus 
+410.0
+Maryland - Baltimore Washington 
+Montana - Bozeman Yellowstone 
+708.0
+Maryland - Baltimore Washington 
+Virginia - Richmond 
+482.0
+Maryland - Baltimore Washington 
+California - Los Angeles 
+270.0
+Massachusetts - Logan 
+Mississippi - Jackson Evers 
+673.0
+Massachusetts - Logan 
+Florida - Fort Lauderdale Hollywood 
+384.0
+Massachusetts - Logan 
+Alaska - Ted Stevens Anchorage 
+351.0
+Massachusetts - Logan 
+Massachusetts - Logan 
+713.0
+Massachusetts - Logan 
+New Jersey - Newark Liberty 
+597.0
+Massachusetts - Logan 
+New Jersey - Newark Liberty 
+470.0
+Massachusetts - Logan 
+Washington - Dulles 
+995.0
+Massachusetts - Logan 
+New Jersey - Newark Liberty 
+779.0
+Massachusetts - Logan 
+Tennessee - Nashville 
+906.0
+Massachusetts - Logan 
+Rhode Island - T.F. Green Airport
+721.0
+Massachusetts - Logan 
+Ohio - John Glenn Columbus 
+923.0
+Massachusetts - Logan 
+Montana - Bozeman Yellowstone 
+791.0
+Massachusetts - Logan 
+New Mexico - Albuquerque International Sunport
+587.0
+Massachusetts - Logan 
+Arizona - Phoenix Sky Harbor 
+211.0
+Massachusetts - Logan 
+Michigan - Detroit Metropolitan Airport
+962.0
+Michigan - Detroit Metropolitan Airport
+Arizona - Phoenix Sky Harbor 
+799.0
+Michigan - Detroit Metropolitan Airport
+West Virginia - Yeager Airport
+494.0
+Michigan - Detroit Metropolitan Airport
+Ohio - John Glenn Columbus 
+596.0
+Michigan - Detroit Metropolitan Airport
+Texas - Austin-Bergstrom 
+328.0
+Michigan - Detroit Metropolitan Airport
+South Carolina - Charleston 
+674.0
+Michigan - Detroit Metropolitan Airport
+Indiana - Indianapolis 
+795.0
+Michigan - Detroit Metropolitan Airport
+Illinois - O’Hare 
+510.0
+Michigan - Detroit Metropolitan Airport
+Nevada - Reno-Tahoe 
+899.0
+Michigan - Detroit Metropolitan Airport
+Florida - Fort Lauderdale Hollywood 
+346.0
+Michigan - Detroit Metropolitan Airport
+Georgia - Hartsfield Jackson Atlanta 
+784.0
+Michigan - Detroit Metropolitan Airport
+Delaware - Wilmington
+787.0
+Minnesota - Minneapolis/St Paul 
+Rhode Island - T.F. Green Airport
+807.0
+Minnesota - Minneapolis/St Paul 
+Kentucky - Cincinnati/Northern Kentucky 
+800.0
+Minnesota - Minneapolis/St Paul 
+Georgia - Hartsfield Jackson Atlanta 
+619.0
+Minnesota - Minneapolis/St Paul 
+Rhode Island - T.F. Green Airport
+492.0
+Minnesota - Minneapolis/St Paul 
+Oklahoma - Will Rogers World
+523.0
+Minnesota - Minneapolis/St Paul 
+Texas - Austin-Bergstrom 
+519.0
+Minnesota - Minneapolis/St Paul 
+Michigan - Detroit Metropolitan Airport
+252.0
+Minnesota - Minneapolis/St Paul 
+Hawaii - Honolulu 
+364.0
+Minnesota - Minneapolis/St Paul 
+Wisconsin - Central Wisconsin Airport
+913.0
+Minnesota - Minneapolis/St Paul 
+Idaho - Boise Airport
+656.0
+Minnesota - Minneapolis/St Paul 
+Nebraska - Lincoln Airport
+255.0
+Minnesota - Minneapolis/St Paul 
+Wyoming - Jackson Hole Airport
+600.0
+Minnesota - Minneapolis/St Paul 
+South Dakota - Sioux Falls Regional
+221.0
+Minnesota - Minneapolis/St Paul 
+North Dakota - Bismarck Municipal
+804.0
+Minnesota - Minneapolis/St Paul 
+Louisiana - Alexandria
+997.0
+Minnesota - Minneapolis/St Paul 
+Arkansas - Northwest Arkansas Regional
+616.0
+Minnesota - Minneapolis/St Paul 
+New York - JFK 
+600.0
+Mississippi - Jackson Evers 
+Georgia - Hartsfield Jackson Atlanta 
+779.0
+Mississippi - Jackson Evers 
+Nebraska - Lincoln Airport
+963.0
+Mississippi - Jackson Evers 
+Oregon - Portland 
+995.0
+Mississippi - Jackson Evers 
+Pennsylvania - Philadelphia 
+927.0
+Mississippi - Jackson Evers 
+Vermont - Rutland-Southern Vermont Regional
+244.0
+Mississippi - Jackson Evers 
+Mississippi - Jackson Evers 
+885.0
+Mississippi - Jackson Evers 
+Georgia - Hartsfield Jackson Atlanta 
+818.0
+Mississippi - Jackson Evers 
+Montana - Bozeman Yellowstone 
+552.0
+Mississippi - Jackson Evers 
+Utah - Salt Lake City 
+750.0
+Mississippi - Jackson Evers 
+Michigan - Detroit Metropolitan Airport
+665.0
+Mississippi - Jackson Evers 
+Rhode Island - T.F. Green Airport
+640.0
+Mississippi - Jackson Evers 
+Florida - Fort Lauderdale Hollywood 
+417.0
+Mississippi - Jackson Evers 
+Nevada - Reno-Tahoe 
+784.0
+Mississippi - Jackson Evers 
+New Mexico - Albuquerque International Sunport
+938.0
+Mississippi - Jackson Evers 
+Tennessee - Nashville 
+992.0
+Mississippi - Jackson Evers 
+Connecticut - Bradley 
+618.0
+Missouri - St Louis Lambert 
+Illinois - O’Hare 
+656.0
+Missouri - St Louis Lambert 
+Oklahoma - Will Rogers World
+569.0
+Missouri - St Louis Lambert 
+Georgia - Hartsfield Jackson Atlanta 
+874.0
+Missouri - St Louis Lambert 
+New York - JFK 
+903.0
+Missouri - St Louis Lambert 
+Texas - Austin-Bergstrom 
+773.0
+Missouri - St Louis Lambert 
+Arkansas - Northwest Arkansas Regional
+260.0
+Missouri - St Louis Lambert 
+Illinois - O’Hare 
+393.0
+Missouri - St Louis Lambert 
+Kentucky - Cincinnati/Northern Kentucky 
+297.0
+Missouri - St Louis Lambert 
+Michigan - Detroit Metropolitan Airport
+251.0
+Missouri - St Louis Lambert 
+Mississippi - Jackson Evers 
+571.0
+Missouri - St Louis Lambert 
+West Virginia - Yeager Airport
+260.0
+Missouri - St Louis Lambert 
+Montana - Bozeman Yellowstone 
+990.0
+Missouri - St Louis Lambert 
+Alabama - Birmingham Shuttlesworth 
+912.0
+Missouri - St Louis Lambert 
+Texas - Austin-Bergstrom 
+296.0
+Missouri - St Louis Lambert 
+South Carolina - Charleston 
+657.0
+Missouri - St Louis Lambert 
+Wisconsin - Central Wisconsin Airport
+336.0
+Missouri - St Louis Lambert 
+South Dakota - Sioux Falls Regional
+804.0
+Missouri - St Louis Lambert 
+Arizona - Phoenix Sky Harbor 
+420.0
+Missouri - St Louis Lambert 
+Delaware - Wilmington
+715.0
+Montana - Bozeman Yellowstone 
+South Dakota - Sioux Falls Regional
+989.0
+Montana - Bozeman Yellowstone 
+West Virginia - Yeager Airport
+681.0
+Montana - Bozeman Yellowstone 
+Delaware - Wilmington
+617.0
+Montana - Bozeman Yellowstone 
+Idaho - Boise Airport
+764.0
+Montana - Bozeman Yellowstone 
+Indiana - Indianapolis 
+985.0
+Montana - Bozeman Yellowstone 
+Massachusetts - Logan 
+667.0
+Montana - Bozeman Yellowstone 
+Oklahoma - Will Rogers World
+830.0
+Montana - Bozeman Yellowstone 
+Delaware - Wilmington
+458.0
+Montana - Bozeman Yellowstone 
+California - Los Angeles 
+922.0
+Montana - Bozeman Yellowstone 
+Colorado - Denver 
+572.0
+Montana - Bozeman Yellowstone 
+Pennsylvania - Philadelphia 
+459.0
+Nebraska - Lincoln Airport
+Alaska - Ted Stevens Anchorage 
+498.0
+Nebraska - Lincoln Airport
+Colorado - Denver 
+478.0
+Nebraska - Lincoln Airport
+Alabama - Birmingham Shuttlesworth 
+461.0
+Nebraska - Lincoln Airport
+Maine - Portland International Jet Port
+436.0
+Nebraska - Lincoln Airport
+Michigan - Detroit Metropolitan Airport
+448.0
+Nebraska - Lincoln Airport
+Missouri - St Louis Lambert 
+829.0
+Nebraska - Lincoln Airport
+Utah - Salt Lake City 
+264.0
+Nebraska - Lincoln Airport
+Mississippi - Jackson Evers 
+465.0
+Nebraska - Lincoln Airport
+Louisiana - Alexandria
+447.0
+Nebraska - Lincoln Airport
+Iowa - Eastern Iowa Airport
+297.0
+Nebraska - Lincoln Airport
+Idaho - Boise Airport
+910.0
+Nebraska - Lincoln Airport
+New Jersey - Newark Liberty 
+766.0
+Nebraska - Lincoln Airport
+North Dakota - Bismarck Municipal
+986.0
+Nebraska - Lincoln Airport
+Georgia - Hartsfield Jackson Atlanta 
+336.0
+Nebraska - Lincoln Airport
+Minnesota - Minneapolis/St Paul 
+795.0
+Nebraska - Lincoln Airport
+Georgia - Hartsfield Jackson Atlanta 
+995.0
+Nebraska - Lincoln Airport
+Colorado - Denver 
+906.0
+Nevada - Reno-Tahoe 
+Nevada - Reno-Tahoe 
+981.0
+Nevada - Reno-Tahoe 
+Iowa - Eastern Iowa Airport
+456.0
+Nevada - Reno-Tahoe 
+Illinois - O’Hare 
+556.0
+Nevada - Reno-Tahoe 
+Kansas - Wichita Dwight D Eisenhower National
+296.0
+Nevada - Reno-Tahoe 
+Missouri - St Louis Lambert 
+273.0
+Nevada - Reno-Tahoe 
+Virginia - Richmond 
+556.0
+Nevada - Reno-Tahoe 
+Texas - Austin-Bergstrom 
+477.0
+Nevada - Reno-Tahoe 
+Indiana - Indianapolis 
+762.0
+Nevada - Reno-Tahoe 
+Michigan - Detroit Metropolitan Airport
+229.0
+Nevada - Reno-Tahoe 
+California - Los Angeles 
+444.0
+New Hampshire - Manchester-Boston Regional
+Rhode Island - T.F. Green Airport
+299.0
+New Hampshire - Manchester-Boston Regional
+Michigan - Detroit Metropolitan Airport
+807.0
+New Hampshire - Manchester-Boston Regional
+Connecticut - Bradley 
+978.0
+New Hampshire - Manchester-Boston Regional
+Michigan - Detroit Metropolitan Airport
+602.0
+New Hampshire - Manchester-Boston Regional
+Mississippi - Jackson Evers 
+443.0
+New Hampshire - Manchester-Boston Regional
+California - Los Angeles 
+214.0
+New Hampshire - Manchester-Boston Regional
+North Dakota - Bismarck Municipal
+201.0
+New Hampshire - Manchester-Boston Regional
+Alaska - Ted Stevens Anchorage 
+267.0
+New Hampshire - Manchester-Boston Regional
+Arkansas - Northwest Arkansas Regional
+465.0
+New Hampshire - Manchester-Boston Regional
+Idaho - Boise Airport
+227.0
+New Hampshire - Manchester-Boston Regional
+West Virginia - Yeager Airport
+918.0
+New Jersey - Newark Liberty 
+Wisconsin - Central Wisconsin Airport
+829.0
+New Jersey - Newark Liberty 
+Montana - Bozeman Yellowstone 
+485.0
+New Jersey - Newark Liberty 
+Delaware - Wilmington
+510.0
+New Jersey - Newark Liberty 
+Missouri - St Louis Lambert 
+849.0
+New Jersey - Newark Liberty 
+Montana - Bozeman Yellowstone 
+976.0
+New Jersey - Newark Liberty 
+Pennsylvania - Philadelphia 
+600.0
+New Jersey - Newark Liberty 
+Michigan - Detroit Metropolitan Airport
+869.0
+New Jersey - Newark Liberty 
+Nevada - Reno-Tahoe 
+396.0
+New Jersey - Newark Liberty 
+Texas - Austin-Bergstrom 
+526.0
+New Jersey - Newark Liberty 
+Nebraska - Lincoln Airport
+695.0
+New Jersey - Newark Liberty 
+Utah - Salt Lake City 
+909.0
+New Jersey - Newark Liberty 
+West Virginia - Yeager Airport
+224.0
+New Jersey - Newark Liberty 
+Arkansas - Northwest Arkansas Regional
+600.0
+New Jersey - Newark Liberty 
+Hawaii - Honolulu 
+950.0
+New Jersey - Newark Liberty 
+West Virginia - Yeager Airport
+365.0
+New Mexico - Albuquerque International Sunport
+Iowa - Eastern Iowa Airport
+518.0
+New Mexico - Albuquerque International Sunport
+Vermont - Rutland-Southern Vermont Regional
+473.0
+New Mexico - Albuquerque International Sunport
+Montana - Bozeman Yellowstone 
+702.0
+New Mexico - Albuquerque International Sunport
+Alabama - Birmingham Shuttlesworth 
+577.0
+New Mexico - Albuquerque International Sunport
+Tennessee - Nashville 
+474.0
+New Mexico - Albuquerque International Sunport
+Connecticut - Bradley 
+868.0
+New Mexico - Albuquerque International Sunport
+Delaware - Wilmington
+372.0
+New Mexico - Albuquerque International Sunport
+Hawaii - Honolulu 
+621.0
+New Mexico - Albuquerque International Sunport
+Tennessee - Nashville 
+348.0
+New Mexico - Albuquerque International Sunport
+Vermont - Rutland-Southern Vermont Regional
+569.0
+New Mexico - Albuquerque International Sunport
+New Hampshire - Manchester-Boston Regional
+345.0
+New York - JFK 
+Oklahoma - Will Rogers World
+503.0
+New York - JFK 
+California - Los Angeles 
+418.0
+New York - JFK 
+Texas - Austin-Bergstrom 
+288.0
+New York - JFK 
+Mississippi - Jackson Evers 
+956.0
+New York - JFK 
+Wisconsin - Central Wisconsin Airport
+571.0
+New York - JFK 
+Rhode Island - T.F. Green Airport
+415.0
+New York - JFK 
+New Jersey - Newark Liberty 
+723.0
+New York - JFK 
+Tennessee - Nashville 
+480.0
+New York - JFK 
+Minnesota - Minneapolis/St Paul 
+780.0
+New York - JFK 
+New Mexico - Albuquerque International Sunport
+793.0
+New York - JFK 
+Oregon - Portland 
+201.0
+New York - JFK 
+South Carolina - Charleston 
+297.0
+New York - JFK 
+Arizona - Phoenix Sky Harbor 
+727.0
+New York - JFK 
+North Carolina - Charlotte Douglas 
+232.0
+New York - JFK 
+Florida - Fort Lauderdale Hollywood 
+857.0
+New York - JFK 
+Iowa - Eastern Iowa Airport
+997.0
+New York - JFK 
+Idaho - Boise Airport
+496.0
+New York - JFK 
+West Virginia - Yeager Airport
+447.0
+New York - JFK 
+Colorado - Denver 
+487.0
+North Carolina - Charlotte Douglas 
+Hawaii - Honolulu 
+767.0
+North Carolina - Charlotte Douglas 
+Idaho - Boise Airport
+915.0
+North Carolina - Charlotte Douglas 
+South Carolina - Charleston 
+596.0
+North Carolina - Charlotte Douglas 
+Pennsylvania - Philadelphia 
+805.0
+North Carolina - Charlotte Douglas 
+Nevada - Reno-Tahoe 
+886.0
+North Carolina - Charlotte Douglas 
+Connecticut - Bradley 
+403.0
+North Carolina - Charlotte Douglas 
+Oregon - Portland 
+527.0
+North Carolina - Charlotte Douglas 
+Oklahoma - Will Rogers World
+552.0
+North Carolina - Charlotte Douglas 
+Oklahoma - Will Rogers World
+876.0
+North Carolina - Charlotte Douglas 
+Missouri - St Louis Lambert 
+262.0
+North Carolina - Charlotte Douglas 
+Pennsylvania - Philadelphia 
+909.0
+North Dakota - Bismarck Municipal
+Kentucky - Cincinnati/Northern Kentucky 
+591.0
+North Dakota - Bismarck Municipal
+New York - JFK 
+608.0
+North Dakota - Bismarck Municipal
+Alabama - Birmingham Shuttlesworth 
+321.0
+North Dakota - Bismarck Municipal
+Ohio - John Glenn Columbus 
+542.0
+North Dakota - Bismarck Municipal
+Virginia - Richmond 
+321.0
+North Dakota - Bismarck Municipal
+Illinois - O’Hare 
+458.0
+North Dakota - Bismarck Municipal
+Tennessee - Nashville 
+447.0
+North Dakota - Bismarck Municipal
+New Mexico - Albuquerque International Sunport
+649.0
+North Dakota - Bismarck Municipal
+Colorado - Denver 
+600.0
+North Dakota - Bismarck Municipal
+Wisconsin - Central Wisconsin Airport
+440.0
+North Dakota - Bismarck Municipal
+Indiana - Indianapolis 
+916.0
+North Dakota - Bismarck Municipal
+Nevada - Reno-Tahoe 
+916.0
+North Dakota - Bismarck Municipal
+Wisconsin - Central Wisconsin Airport
+504.0
+Ohio - John Glenn Columbus 
+New Hampshire - Manchester-Boston Regional
+999.0
+Ohio - John Glenn Columbus 
+Minnesota - Minneapolis/St Paul 
+376.0
+Ohio - John Glenn Columbus 
+Montana - Bozeman Yellowstone 
+702.0
+Ohio - John Glenn Columbus 
+Nevada - Reno-Tahoe 
+670.0
+Ohio - John Glenn Columbus 
+Tennessee - Nashville 
+230.0
+Ohio - John Glenn Columbus 
+Alaska - Ted Stevens Anchorage 
+534.0
+Ohio - John Glenn Columbus 
+South Dakota - Sioux Falls Regional
+506.0
+Ohio - John Glenn Columbus 
+North Dakota - Bismarck Municipal
+277.0
+Ohio - John Glenn Columbus 
+Rhode Island - T.F. Green Airport
+223.0
+Ohio - John Glenn Columbus 
+Connecticut - Bradley 
+412.0
+Ohio - John Glenn Columbus 
+California - Los Angeles 
+430.0
+Ohio - John Glenn Columbus 
+Maine - Portland International Jet Port
+938.0
+Ohio - John Glenn Columbus 
+Missouri - St Louis Lambert 
+336.0
+Oklahoma - Will Rogers World
+West Virginia - Yeager Airport
+270.0
+Oklahoma - Will Rogers World
+Missouri - St Louis Lambert 
+442.0
+Oklahoma - Will Rogers World
+Minnesota - Minneapolis/St Paul 
+325.0
+Oklahoma - Will Rogers World
+Utah - Salt Lake City 
+492.0
+Oklahoma - Will Rogers World
+Mississippi - Jackson Evers 
+233.0
+Oklahoma - Will Rogers World
+Louisiana - Alexandria
+483.0
+Oklahoma - Will Rogers World
+Maryland - Baltimore Washington 
+561.0
+Oklahoma - Will Rogers World
+North Dakota - Bismarck Municipal
+650.0
+Oklahoma - Will Rogers World
+Nevada - Reno-Tahoe 
+687.0
+Oklahoma - Will Rogers World
+Rhode Island - T.F. Green Airport
+586.0
+Oklahoma - Will Rogers World
+Vermont - Rutland-Southern Vermont Regional
+533.0
+Oklahoma - Will Rogers World
+Connecticut - Bradley 
+988.0
+Oklahoma - Will Rogers World
+Oklahoma - Will Rogers World
+965.0
+Oklahoma - Will Rogers World
+California - Los Angeles 
+553.0
+Oklahoma - Will Rogers World
+Pennsylvania - Philadelphia 
+788.0
+Oregon - Portland 
+Arizona - Phoenix Sky Harbor 
+373.0
+Oregon - Portland 
+Rhode Island - T.F. Green Airport
+303.0
+Oregon - Portland 
+New Mexico - Albuquerque International Sunport
+422.0
+Oregon - Portland 
+Idaho - Boise Airport
+409.0
+Oregon - Portland 
+Nebraska - Lincoln Airport
+519.0
+Oregon - Portland 
+North Carolina - Charlotte Douglas 
+486.0
+Oregon - Portland 
+Washington - Dulles 
+398.0
+Oregon - Portland 
+Utah - Salt Lake City 
+883.0
+Oregon - Portland 
+Rhode Island - T.F. Green Airport
+539.0
+Oregon - Portland 
+Texas - Austin-Bergstrom 
+461.0
+Oregon - Portland 
+California - Los Angeles 
+646.0
+Oregon - Portland 
+South Dakota - Sioux Falls Regional
+396.0
+Oregon - Portland 
+Hawaii - Honolulu 
+497.0
+Oregon - Portland 
+South Dakota - Sioux Falls Regional
+442.0
+Oregon - Portland 
+Oregon - Portland 
+701.0
+Oregon - Portland 
+Idaho - Boise Airport
+977.0
+Pennsylvania - Philadelphia 
+Minnesota - Minneapolis/St Paul 
+942.0
+Pennsylvania - Philadelphia 
+Iowa - Eastern Iowa Airport
+438.0
+Pennsylvania - Philadelphia 
+Wyoming - Jackson Hole Airport
+375.0
+Pennsylvania - Philadelphia 
+Utah - Salt Lake City 
+353.0
+Pennsylvania - Philadelphia 
+South Dakota - Sioux Falls Regional
+795.0
+Pennsylvania - Philadelphia 
+Massachusetts - Logan 
+646.0
+Pennsylvania - Philadelphia 
+Alaska - Ted Stevens Anchorage 
+427.0
+Pennsylvania - Philadelphia 
+Indiana - Indianapolis 
+253.0
+Pennsylvania - Philadelphia 
+Connecticut - Bradley 
+306.0
+Pennsylvania - Philadelphia 
+Massachusetts - Logan 
+950.0
+Pennsylvania - Philadelphia 
+Nevada - Reno-Tahoe 
+669.0
+Pennsylvania - Philadelphia 
+Tennessee - Nashville 
+983.0
+Pennsylvania - Philadelphia 
+Georgia - Hartsfield Jackson Atlanta 
+712.0
+Pennsylvania - Philadelphia 
+Illinois - O’Hare 
+305.0
+Pennsylvania - Philadelphia 
+Ohio - John Glenn Columbus 
+545.0
+Pennsylvania - Philadelphia 
+West Virginia - Yeager Airport
+990.0
+Rhode Island - T.F. Green Airport
+New Jersey - Newark Liberty 
+638.0
+Rhode Island - T.F. Green Airport
+Pennsylvania - Philadelphia 
+409.0
+Rhode Island - T.F. Green Airport
+Washington - Dulles 
+483.0
+Rhode Island - T.F. Green Airport
+Arkansas - Northwest Arkansas Regional
+827.0
+Rhode Island - T.F. Green Airport
+West Virginia - Yeager Airport
+520.0
+Rhode Island - T.F. Green Airport
+Mississippi - Jackson Evers 
+662.0
+Rhode Island - T.F. Green Airport
+Delaware - Wilmington
+797.0
+Rhode Island - T.F. Green Airport
+Georgia - Hartsfield Jackson Atlanta 
+554.0
+Rhode Island - T.F. Green Airport
+Texas - Austin-Bergstrom 
+703.0
+Rhode Island - T.F. Green Airport
+Minnesota - Minneapolis/St Paul 
+211.0
+Rhode Island - T.F. Green Airport
+Iowa - Eastern Iowa Airport
+505.0
+South Carolina - Charleston 
+Wyoming - Jackson Hole Airport
+466.0
+South Carolina - Charleston 
+Arkansas - Northwest Arkansas Regional
+328.0
+South Carolina - Charleston 
+Alaska - Ted Stevens Anchorage 
+604.0
+South Carolina - Charleston 
+North Carolina - Charlotte Douglas 
+481.0
+South Carolina - Charleston 
+Wisconsin - Central Wisconsin Airport
+440.0
+South Carolina - Charleston 
+Washington - Dulles 
+430.0
+South Carolina - Charleston 
+Connecticut - Bradley 
+414.0
+South Carolina - Charleston 
+Alaska - Ted Stevens Anchorage 
+843.0
+South Carolina - Charleston 
+Michigan - Detroit Metropolitan Airport
+843.0
+South Carolina - Charleston 
+Oklahoma - Will Rogers World
+953.0
+South Carolina - Charleston 
+Texas - Austin-Bergstrom 
+429.0
+South Carolina - Charleston 
+Massachusetts - Logan 
+793.0
+South Carolina - Charleston 
+New York - JFK 
+840.0
+South Carolina - Charleston 
+Utah - Salt Lake City 
+742.0
+South Carolina - Charleston 
+Louisiana - Alexandria
+962.0
+South Carolina - Charleston 
+Kentucky - Cincinnati/Northern Kentucky 
+463.0
+South Carolina - Charleston 
+Arkansas - Northwest Arkansas Regional
+241.0
+South Dakota - Sioux Falls Regional
+Kentucky - Cincinnati/Northern Kentucky 
+670.0
+South Dakota - Sioux Falls Regional
+Arkansas - Northwest Arkansas Regional
+868.0
+South Dakota - Sioux Falls Regional
+Colorado - Denver 
+442.0
+South Dakota - Sioux Falls Regional
+Delaware - Wilmington
+323.0
+South Dakota - Sioux Falls Regional
+North Carolina - Charlotte Douglas 
+671.0
+South Dakota - Sioux Falls Regional
+Idaho - Boise Airport
+997.0
+South Dakota - Sioux Falls Regional
+Massachusetts - Logan 
+820.0
+South Dakota - Sioux Falls Regional
+Pennsylvania - Philadelphia 
+388.0
+South Dakota - Sioux Falls Regional
+Iowa - Eastern Iowa Airport
+852.0
+South Dakota - Sioux Falls Regional
+Minnesota - Minneapolis/St Paul 
+258.0
+South Dakota - Sioux Falls Regional
+New Mexico - Albuquerque International Sunport
+386.0
+Tennessee - Nashville 
+North Carolina - Charlotte Douglas 
+669.0
+Tennessee - Nashville 
+Alabama - Birmingham Shuttlesworth 
+265.0
+Tennessee - Nashville 
+Missouri - St Louis Lambert 
+613.0
+Tennessee - Nashville 
+New York - JFK 
+954.0
+Tennessee - Nashville 
+Delaware - Wilmington
+255.0
+Tennessee - Nashville 
+Ohio - John Glenn Columbus 
+862.0
+Tennessee - Nashville 
+Hawaii - Honolulu 
+757.0
+Tennessee - Nashville 
+Massachusetts - Logan 
+300.0
+Tennessee - Nashville 
+New Mexico - Albuquerque International Sunport
+290.0
+Tennessee - Nashville 
+Idaho - Boise Airport
+601.0
+Tennessee - Nashville 
+Georgia - Hartsfield Jackson Atlanta 
+618.0
+Tennessee - Nashville 
+Florida - Fort Lauderdale Hollywood 
+827.0
+Tennessee - Nashville 
+Minnesota - Minneapolis/St Paul 
+891.0
+Texas - Austin-Bergstrom 
+Texas - Austin-Bergstrom 
+337.0
+Texas - Austin-Bergstrom 
+California - Los Angeles 
+652.0
+Texas - Austin-Bergstrom 
+Connecticut - Bradley 
+976.0
+Texas - Austin-Bergstrom 
+South Dakota - Sioux Falls Regional
+534.0
+Texas - Austin-Bergstrom 
+Washington - Dulles 
+911.0
+Texas - Austin-Bergstrom 
+Indiana - Indianapolis 
+617.0
+Texas - Austin-Bergstrom 
+Tennessee - Nashville 
+581.0
+Texas - Austin-Bergstrom 
+Washington - Dulles 
+602.0
+Texas - Austin-Bergstrom 
+Michigan - Detroit Metropolitan Airport
+236.0
+Texas - Austin-Bergstrom 
+Ohio - John Glenn Columbus 
+478.0
+Texas - Austin-Bergstrom 
+Wyoming - Jackson Hole Airport
+254.0
+Texas - Austin-Bergstrom 
+Nebraska - Lincoln Airport
+888.0
+Texas - Austin-Bergstrom 
+South Dakota - Sioux Falls Regional
+991.0
+Texas - Austin-Bergstrom 
+Massachusetts - Logan 
+754.0
+Utah - Salt Lake City 
+Minnesota - Minneapolis/St Paul 
+888.0
+Utah - Salt Lake City 
+Missouri - St Louis Lambert 
+243.0
+Utah - Salt Lake City 
+Alabama - Birmingham Shuttlesworth 
+255.0
+Utah - Salt Lake City 
+New York - JFK 
+289.0
+Utah - Salt Lake City 
+Washington - Dulles 
+623.0
+Utah - Salt Lake City 
+Delaware - Wilmington
+581.0
+Utah - Salt Lake City 
+Connecticut - Bradley 
+710.0
+Utah - Salt Lake City 
+Michigan - Detroit Metropolitan Airport
+250.0
+Utah - Salt Lake City 
+Montana - Bozeman Yellowstone 
+638.0
+Utah - Salt Lake City 
+Tennessee - Nashville 
+896.0
+Vermont - Rutland-Southern Vermont Regional
+Arkansas - Northwest Arkansas Regional
+934.0
+Vermont - Rutland-Southern Vermont Regional
+Missouri - St Louis Lambert 
+934.0
+Vermont - Rutland-Southern Vermont Regional
+Pennsylvania - Philadelphia 
+886.0
+Vermont - Rutland-Southern Vermont Regional
+Kansas - Wichita Dwight D Eisenhower National
+912.0
+Vermont - Rutland-Southern Vermont Regional
+Washington - Dulles 
+585.0
+Vermont - Rutland-Southern Vermont Regional
+Tennessee - Nashville 
+573.0
+Vermont - Rutland-Southern Vermont Regional
+Montana - Bozeman Yellowstone 
+751.0
+Vermont - Rutland-Southern Vermont Regional
+Florida - Fort Lauderdale Hollywood 
+605.0
+Vermont - Rutland-Southern Vermont Regional
+Florida - Fort Lauderdale Hollywood 
+845.0
+Vermont - Rutland-Southern Vermont Regional
+Montana - Bozeman Yellowstone 
+792.0
+Vermont - Rutland-Southern Vermont Regional
+Maryland - Baltimore Washington 
+563.0
+Virginia - Richmond 
+South Dakota - Sioux Falls Regional
+697.0
+Virginia - Richmond 
+Texas - Austin-Bergstrom 
+984.0
+Virginia - Richmond 
+Kentucky - Cincinnati/Northern Kentucky 
+887.0
+Virginia - Richmond 
+New Hampshire - Manchester-Boston Regional
+972.0
+Virginia - Richmond 
+Indiana - Indianapolis 
+417.0
+Virginia - Richmond 
+Georgia - Hartsfield Jackson Atlanta 
+509.0
+Virginia - Richmond 
+Oregon - Portland 
+977.0
+Virginia - Richmond 
+Ohio - John Glenn Columbus 
+310.0
+Virginia - Richmond 
+Texas - Austin-Bergstrom 
+285.0
+Virginia - Richmond 
+North Carolina - Charlotte Douglas 
+213.0
+Virginia - Richmond 
+Tennessee - Nashville 
+878.0
+Virginia - Richmond 
+Colorado - Denver 
+471.0
+Virginia - Richmond 
+Alaska - Ted Stevens Anchorage 
+895.0
+Virginia - Richmond 
+Minnesota - Minneapolis/St Paul 
+418.0
+Washington - Dulles 
+Minnesota - Minneapolis/St Paul 
+571.0
+Washington - Dulles 
+Michigan - Detroit Metropolitan Airport
+929.0
+Washington - Dulles 
+Alabama - Birmingham Shuttlesworth 
+585.0
+Washington - Dulles 
+North Carolina - Charlotte Douglas 
+669.0
+Washington - Dulles 
+Georgia - Hartsfield Jackson Atlanta 
+832.0
+Washington - Dulles 
+North Carolina - Charlotte Douglas 
+255.0
+Washington - Dulles 
+Montana - Bozeman Yellowstone 
+855.0
+Washington - Dulles 
+Oregon - Portland 
+255.0
+Washington - Dulles 
+Minnesota - Minneapolis/St Paul 
+775.0
+Washington - Dulles 
+Tennessee - Nashville 
+842.0
+Washington - Dulles 
+Arkansas - Northwest Arkansas Regional
+443.0
+Washington - Dulles 
+New York - JFK 
+647.0
+Washington - Dulles 
+Missouri - St Louis Lambert 
+772.0
+Washington - Dulles 
+South Dakota - Sioux Falls Regional
+244.0
+Washington - Dulles 
+Colorado - Denver 
+648.0
+Washington - Dulles 
+Colorado - Denver 
+879.0
+West Virginia - Yeager Airport
+Nebraska - Lincoln Airport
+252.0
+West Virginia - Yeager Airport
+Massachusetts - Logan 
+299.0
+West Virginia - Yeager Airport
+Virginia - Richmond 
+437.0
+West Virginia - Yeager Airport
+Nevada - Reno-Tahoe 
+349.0
+West Virginia - Yeager Airport
+South Carolina - Charleston 
+955.0
+West Virginia - Yeager Airport
+Nevada - Reno-Tahoe 
+389.0
+West Virginia - Yeager Airport
+Louisiana - Alexandria
+297.0
+West Virginia - Yeager Airport
+Delaware - Wilmington
+230.0
+West Virginia - Yeager Airport
+Indiana - Indianapolis 
+449.0
+West Virginia - Yeager Airport
+Ohio - John Glenn Columbus 
+574.0
+West Virginia - Yeager Airport
+New Hampshire - Manchester-Boston Regional
+317.0
+West Virginia - Yeager Airport
+Tennessee - Nashville 
+675.0
+Wisconsin - Central Wisconsin Airport
+Illinois - O’Hare 
+923.0
+Wisconsin - Central Wisconsin Airport
+Montana - Bozeman Yellowstone 
+769.0
+Wisconsin - Central Wisconsin Airport
+South Carolina - Charleston 
+850.0
+Wisconsin - Central Wisconsin Airport
+Michigan - Detroit Metropolitan Airport
+628.0
+Wisconsin - Central Wisconsin Airport
+Connecticut - Bradley 
+974.0
+Wisconsin - Central Wisconsin Airport
+Oregon - Portland 
+896.0
+Wisconsin - Central Wisconsin Airport
+Massachusetts - Logan 
+723.0
+Wisconsin - Central Wisconsin Airport
+Utah - Salt Lake City 
+207.0
+Wisconsin - Central Wisconsin Airport
+Louisiana - Alexandria
+436.0
+Wisconsin - Central Wisconsin Airport
+Vermont - Rutland-Southern Vermont Regional
+698.0
+Wyoming - Jackson Hole Airport
+Delaware - Wilmington
+835.0
+Wyoming - Jackson Hole Airport
+Iowa - Eastern Iowa Airport
+902.0
+Wyoming - Jackson Hole Airport
+Connecticut - Bradley 
+491.0
+Wyoming - Jackson Hole Airport
+Iowa - Eastern Iowa Airport
+736.0
+Wyoming - Jackson Hole Airport
+Massachusetts - Logan 
+352.0
+Wyoming - Jackson Hole Airport
+Utah - Salt Lake City 
+877.0
+Wyoming - Jackson Hole Airport
+Minnesota - Minneapolis/St Paul 
+361.0
+Wyoming - Jackson Hole Airport
+Rhode Island - T.F. Green Airport
+633.0
+Wyoming - Jackson Hole Airport
+Arizona - Phoenix Sky Harbor 
+874.0
+Wyoming - Jackson Hole Airport
+Wisconsin - Central Wisconsin Airport
+660.0
+Wyoming - Jackson Hole Airport
+New Jersey - Newark Liberty 
+282.0
+Wyoming - Jackson Hole Airport
+Washington - Dulles 
+729.0
+Wyoming - Jackson Hole Airport
+Ohio - John Glenn Columbus 
+763.0
+Wyoming - Jackson Hole Airport
+Iowa - Eastern Iowa Airport
+315.0
+Wyoming - Jackson Hole Airport
+Louisiana - Alexandria
+347.0
+Wyoming - Jackson Hole Airport
+Oregon - Portland 
+911.0

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="HW01/src"/>
+	<classpathentry kind="src" path="HW02/src"/>
+	<classpathentry kind="src" path="HW03/src"/>
+	<classpathentry kind="src" path="HW04/src"/>
+	<classpathentry kind="src" path="HW05/src"/>
+	<classpathentry kind="src" path="HW06/src"/>
+	<classpathentry kind="src" path="HW07/src"/>
+	<classpathentry kind="src" path="HW08/src"/>
+	<classpathentry kind="src" path="HW09/src"/>
+	<classpathentry kind="src" path="HW10/src"/>
+	<classpathentry kind="src" path="HW11/src"/>
+	<classpathentry kind="src" path="Lab01/src"/>
+	<classpathentry kind="src" path="Lab02/src"/>
+	<classpathentry kind="src" path="Lab04/src"/>
+	<classpathentry kind="src" path="Lab05/src"/>
+	<classpathentry kind="src" path="Lab06/src"/>
+	<classpathentry kind="src" path="Lab07/src"/>
+	<classpathentry kind="src" path="Lab08/src"/>
+	<classpathentry kind="src" path="Lab09/src"/>
+	<classpathentry kind="src" path="Lab10/src"/>
+	<classpathentry kind="src" path="Lab12/src"/>
+	<classpathentry kind="src" path="Lab13/src"/>
+	<classpathentry kind="src" path="Lab14/src"/>
+	<classpathentry kind="src" path="Lab16/src"/>
+	<classpathentry kind="src" path="Lab17/src"/>
+	<classpathentry kind="src" path="Lab18/src"/>
+	<classpathentry kind="src" path="Lab19/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="HW01/bin"/>
+</classpath>
